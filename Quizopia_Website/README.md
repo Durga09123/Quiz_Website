@@ -6,30 +6,30 @@
 
 
  
-## Features
+# Features
 
-# 1. Interactive Quiz Interface
+** 1. Interactive Quiz Interface**
      - Choose from a variety of subjects and        subcategories.
      - Dynamic quiz generation based on user-selected topics and question counts.
      - Real-time feedback on correct and incorrect answers.
 
-# 2. Timer
+** 2. Timer**
      - A built-in timer for each quiz to keep track of time.
      - Automatically submits the quiz when time runs out.
 
-# 3. Results Page
+** 3. Results Page**
     - Displays the user's score and a detailed breakdown of correct and incorrect answers.
     - Visual representation of the score using a circular progress bar.
 
-# 4. Responsive Design
+** 4. Responsive Design**
      - Fully responsive design for seamless use on desktops, tablets, and mobile devices.
      - Mobile-friendly navigation with a collapsible menu.
 
-# 5. About Us Section
+** 5. About Us Section**
      - Learn about the mission, vision, and core values of Quizopia.
      - Meet the team behind the project and read testimonials from users.
 
-# 6. FAQ and Contact Information
+ **6. FAQ and Contact Information**
      - Frequently asked questions to help users navigate the platform.
      - Contact information and social media links for further assistance.
 
