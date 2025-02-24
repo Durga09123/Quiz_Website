@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Results</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="navbar-left">
+                <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+            <div class="navbar-right">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#categories-section">Categories</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="logo-mobile">
+                <a href="#"> <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+            <i class="fa-solid fa-bars" onclick="toggleMenu()"></i>
+            <div class="navbar-mobile">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#categories-section">Categories</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#faqs">FAQ</a></li>
+                    <li><a href="#contact-info">Contact Us</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="result-section">
+            <h1>Quiz Results</h1>
+            <div id="result-container"></div>
+            <div class="score-circle">
+                <svg width="120" height="120">
+                    <circle class="circle-background" cx="60" cy="60" r="50"></circle>
+                    <circle class="circle-progress" cx="60" cy="60" r="50"></circle>
+                    <text class="circle-text" x="50%" y="50%" dy=".3em" text-anchor="middle"></text>
+                </svg>
+            </div>
+            <button id="go-to-home" onclick="window.location.href='index.html'">Go to Home</button>
+        </div>
+        <script src="result.js"></script>
+</body>
+
+</html>

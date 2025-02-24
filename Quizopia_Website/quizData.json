@@ -1,0 +1,7484 @@
+{
+  "tamil": {
+    "grammar": [
+      {
+        "question": "எந்த வகை பெயர் மனிதர்களின் பெயர்களை குறிக்கிறது?",
+        "options": [
+          "பொது பெயர்",
+          "சொந்த பெயர்",
+          "செயல் பெயர்",
+          "சுட்டுப்பெயர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "செயலின் தொடர்மையை குறிக்கும் காலம் எது?",
+        "options": [
+          "நிகழ் காலம்",
+          "முன்நிலை காலம்",
+          "எதிர் காலம்",
+          "நிலைகாலம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "கீழ்க்கண்டவற்றில் எது வினைச்சொல்லாக இருக்கிறது?",
+        "options": [
+          "வாசிப்பு",
+          "நடத்தல்",
+          "ஓடுதல்",
+          "மூன்றும் சரி"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "‘அவன்’ எந்த வகை சொல்லாகும்?",
+        "options": [
+          "சொந்த பெயர்",
+          "சுட்டுப்பெயர்",
+          "உரிச்சொல்",
+          "பொது பெயர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "வழக்கில் ஒரு செயலை குறிப்பதற்கான சொல் வகை எது?",
+        "options": [
+          "வினைச்சொல்",
+          "பெயர்ச்சொல்",
+          "தோணிச்சொல்",
+          "பொருள்சொல்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "வினையெச்சம் உள்ள வாக்கியத்தை கண்டுபிடிக்கவும்.",
+        "options": [
+          "அவன் வந்து பேசினான்.",
+          "அவன் வீட்டிற்கு சென்றான்.",
+          "அவன் வந்திருப்பான்.",
+          "அவன் பாடல் பாடினான்."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "பின்வரும் வாக்கியத்தில் வினைச்சொல்லை கண்டுபிடிக்கவும்: ‘மாமா காய் வெட்டுகிறார்.’",
+        "options": [
+          "மாமா",
+          "காய்",
+          "வெட்டுகிறார்",
+          "வாக்கியம்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘நாம்’ என்பதில் உள்ள பன்மை வகை எது?",
+        "options": [
+          "ஒன்றன்பை",
+          "பன்மை",
+          "எதுவுமில்லை",
+          "மிக்கபன்மை"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "‘மழை பெய்கிறது’ என்பதில் ‘மழை’ என்ன சொல்லாகும்?",
+        "options": [
+          "பெயர்ச்சொல்",
+          "வினைச்சொல்",
+          "துணைப்பெயர்",
+          "மிகைத்தொகுப்பு"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "மிகைபெயர்ச்சொல் எதை குறிக்கிறது?",
+        "options": [
+          "படிக்கப்படும் பெயர்ச்சொல்",
+          "பொதுவாக ஒரு பொருளை குறிக்கும்பெயர்",
+          "மிகைப்பட்ட சொல்",
+          "மிகைச்சொல்லில்லா பெயர்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘தான்’ என்பதன் வகை எது?",
+        "options": [
+          "சுட்டுப்பெயர்",
+          "முற்பெயர்",
+          "உரிச்சொல்",
+          "வினைச்சொல்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘அரசன் அரசியல் நடத்துகிறார்’ – இதில் பெயர்ச்சொல்லை தேர்வு செய்க.",
+        "options": [
+          "அரசன்",
+          "அரசியல்",
+          "நடத்துகிறார்",
+          "அரசன், அரசியல்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "தமிழில் எத்தனை வகையான பெயர்ச்சொற்கள் உள்ளன?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘நீங்கள்’ என்பது எந்த வகை ஆணைச்சொல்லாகும்?",
+        "options": [
+          "ஒருமை",
+          "பன்மை",
+          "ஒன்றன்பை",
+          "மிகைச்சொல்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "வினைமுற்று என்றால் என்ன?",
+        "options": [
+          "முழு கருத்து தரும் வினை",
+          "முதலே தொடங்கும் வினை",
+          "நடந்து முடிந்த வினை",
+          "தொடர்ச்சியான வினை"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘அவர் வந்தார்’ – இதில் வினைச்சொல் என்ன?",
+        "options": [
+          "அவர்",
+          "வந்தார்",
+          "இருக்கிறார்",
+          "நடந்தது"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘எழுதுதல்’ என்பதில் என்ன வகை வினைச்சொல் உள்ளது?",
+        "options": [
+          "வினையெச்சம்",
+          "வினைமுற்று",
+          "வினைமிகை",
+          "வினைத்தொகுப்பு"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "பிறப்பியல் என்றால் என்ன?",
+        "options": [
+          "பெயர்ச்சொல்",
+          "வினைச்சொல்",
+          "துணைச்சொல்",
+          "எதுவுமில்லை"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘நடக்கின்ற’ என்பது எந்த காலத்தை குறிக்கிறது?",
+        "options": [
+          "நிகழ்காலம்",
+          "எதிர்காலம்",
+          "முன்னிலை காலம்",
+          "நிலைகாலம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘கற்றல்’ என்பதன் வினைச்சொல் வடிவம் எது?",
+        "options": [
+          "கற்று",
+          "கடந்த",
+          "கற்றுக்கொண்டிருக்கிறான்",
+          "கற்றுக் கொண்டிருப்பான்"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "literature": [
+      {
+        "question": "சிலப்பதிகாரம் எது?",
+        "options": [
+          "பெருங்காப்பியம்",
+          "அறநூல்",
+          "புதினம்",
+          "இலக்கண நூல்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "சங்க காலத்தில் எந்த வகையான பாடல்கள் எழுதப்பட்டன?",
+        "options": [
+          "ஆராய்ச்சிப் பாடல்கள்",
+          "அகப்பாடல்கள் மற்றும் புரப்பாடல்கள்",
+          "நவீன கவிதைகள்",
+          "சிறுகதைகள்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘மணிமேகலை’ நூலை எழுதியவர் யார்?",
+        "options": [
+          "இளங்கோவடிகள்",
+          "திருவள்ளுவர்",
+          "சீதலைசாத்தன்",
+          "கம்பர்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "பரிபாடல் எந்த இலக்கியத்தைச் சார்ந்தது?",
+        "options": [
+          "புத்தக இலக்கியம்",
+          "சங்க இலக்கியம்",
+          "இலக்கண நூல்கள்",
+          "புதினங்கள்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "திருக்குறளின் ஆசிரியர் யார்?",
+        "options": [
+          "ஏழுத்தச்சன்",
+          "திருவள்ளுவர்",
+          "அவ்வையார்",
+          "கம்பர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "கம்பராமாயணம் எந்த இலக்கிய வகையைச் சார்ந்தது?",
+        "options": [
+          "சங்க இலக்கியம்",
+          "புதினம்",
+          "அரசியல் நூல்",
+          "இராமாயணக் காப்பியம்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "அகநானூறு எந்த இலக்கியத்துடன் தொடர்புடையது?",
+        "options": [
+          "சங்க இலக்கியம்",
+          "புராண இலக்கியம்",
+          "இலக்கண நூல்கள்",
+          "சமகால இலக்கியம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘எல்லோருக்கும் எல்லாமும்’ என்ற கருத்தை வலியுறுத்தும் நூல் எது?",
+        "options": [
+          "சிலப்பதிகாரம்",
+          "திருக்குறள்",
+          "கம்பராமாயணம்",
+          "நளவெண்பா"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "நற்றிணை எது?",
+        "options": [
+          "பெருங்காப்பியம்",
+          "புராண இலக்கியம்",
+          "சங்க இலக்கிய தொகுப்பு",
+          "சிறுகதை தொகுப்பு"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "நடுநல்வாடை எந்த இலக்கியத்தில் உள்ளது?",
+        "options": [
+          "திருக்குறள்",
+          "பட்டினப்பாலை",
+          "குறுந்தொகை",
+          "ஐங்குறுநூறு"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "திருவாசகம் இயற்றியவர் யார்?",
+        "options": [
+          "மாணிக்கவாசகர்",
+          "திருவள்ளுவர்",
+          "அவ்வையார்",
+          "சுந்தரமூர்த்தி நாயனார்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "பக்தி இலக்கியத்தின் முக்கிய கவிஞர்களில் ஒருவர் யார்?",
+        "options": [
+          "கபிலர்",
+          "திருநாவுக்கரசர்",
+          "பரணர்",
+          "ஏவல்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘அகப்பொருள்’ சார்ந்த இலக்கியம் எது?",
+        "options": [
+          "புறநானூறு",
+          "திருக்குறள்",
+          "கலித்தொகை",
+          "மணிமேகலை"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘அவ்வையார்’ எழுதிய நூல்கள் எவை?",
+        "options": [
+          "திருவாசகம்",
+          "திருமுறைகள்",
+          "அத்திச்சூடி, கொன்றைவேந்தன்",
+          "நாலடியார்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "சங்க காலத்தில் மன்னர்களை புகழ்ந்து பாடிய புலவர் யார்?",
+        "options": [
+          "கபிலர்",
+          "அவ்வையார்",
+          "மாணிக்கவாசகர்",
+          "இளங்கோவடிகள்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘புறப்பொருள்’ சார்ந்த சங்க நூல் எது?",
+        "options": [
+          "அகநானூறு",
+          "நற்றிணை",
+          "புறநானூறு",
+          "கலித்தொகை"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "சிலப்பதிகாரத்தின் நாயகி யார்?",
+        "options": [
+          "மணிமேகலை",
+          "அவ்வையார்",
+          "கண்ணகி",
+          "நளினி"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘நாலடியார்’ எந்த இலக்கியத்துடன் தொடர்புடையது?",
+        "options": [
+          "அகத்திணை",
+          "திருமுறைகள்",
+          "சமண நூல்",
+          "பக்தி இலக்கியம்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "திருக்குறள் எத்தனை அதிகாரங்களை கொண்டுள்ளது?",
+        "options": [
+          "100",
+          "133",
+          "200",
+          "108"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "poetry": [
+      {
+        "question": "சங்க கால பாடல்களை வேறு என்ன என்று அழைக்கலாம்?",
+        "options": [
+          "இலக்கண நூல்கள்",
+          "புராண பாடல்கள்",
+          "எட்டுத்தொகை மற்றும் பத்துப்பாட்டு",
+          "இசைநூல்கள்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "திருப்புகழ் பாடல்களை இயற்றியவர் யார்?",
+        "options": [
+          "மாணிக்கவாசகர்",
+          "அருணகிரிநாதர்",
+          "திருவள்ளுவர்",
+          "நக்கீரர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "பதினெண்கீழ்க்கணக்கு நூல்களில் மிகவும் பிரபலமானது எது?",
+        "options": [
+          "திருக்குறள்",
+          "நாலடியார்",
+          "அத்திச்சூடி",
+          "கலித்தொகை"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "பக்தி இலக்கியத்தின் முக்கியப் பகுதி எது?",
+        "options": [
+          "சங்க கால இலக்கியம்",
+          "நாலடியார்",
+          "தேவாரப் பாடல்கள்",
+          "பட்டினப்பாலை"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "அகநானூறு பாடல்கள் எந்த இலக்கிய காலத்துடன் தொடர்புடையது?",
+        "options": [
+          "சங்க காலம்",
+          "பக்தி காலம்",
+          "நவீன இலக்கியம்",
+          "நையாண்டி கவிதைகள்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "பட்டினப்பாலை எந்த இலக்கியத்துடன் தொடர்புடையது?",
+        "options": [
+          "சங்க இலக்கியம்",
+          "பக்தி இலக்கியம்",
+          "இலக்கண நூல்",
+          "சமண இலக்கியம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "சங்க காலத்தின் புகழ்பெற்ற புலவர் யார்?",
+        "options": [
+          "வள்ளுவன்",
+          "பரணர்",
+          "கம்பர்",
+          "சுந்தரமூர்த்தி"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "திருவாசக பாடல்களை இயற்றியவர் யார்?",
+        "options": [
+          "திருஞானசம்பந்தர்",
+          "அருணகிரிநாதர்",
+          "மாணிக்கவாசகர்",
+          "கபிலர்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "நாலடியார் எந்தக் கடவுளை புகழ்ந்து பாடுகிறது?",
+        "options": [
+          "முருகன்",
+          "விஷ்ணு",
+          "சிவன்",
+          "புத்தர்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "கலித்தொகை எந்த இலக்கியத்துடன் தொடர்புடையது?",
+        "options": [
+          "பக்தி இலக்கியம்",
+          "புறநானூறு",
+          "சங்க இலக்கியம்",
+          "திருமுறைகள்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "தேவாரம் பாடல்களை இயற்றிய மூன்று முக்கிய நாயன்மார்கள் யார்?",
+        "options": [
+          "திருஞானசம்பந்தர், திருநாவுக்கரசர், சுந்தரர்",
+          "அருணகிரிநாதர், மாணிக்கவாசகர், அவ்வையார்",
+          "திருவள்ளுவர், நக்கீரர், கபிலர்",
+          "பரணர், கபிலர், ஒட்டக்கூத்தர்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "பெரிய புராணம் எழுதியவர் யார்?",
+        "options": [
+          "திருஞானசம்பந்தர்",
+          "சேக்கிழார்",
+          "நக்கீரர்",
+          "கம்பர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "நான்மணிக்கடிகை எந்த வகை நூலாகும்?",
+        "options": [
+          "சமண நூல்",
+          "நாலடியார்",
+          "சங்க இலக்கியம்",
+          "பக்தி இலக்கியம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "கம்பர் எந்த நூலை எழுதியவர்?",
+        "options": [
+          "சிலப்பதிகாரம்",
+          "கம்பராமாயணம்",
+          "மணிமேகலை",
+          "புறநானூறு"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "அவ்வையார் எழுதிய புகழ்பெற்ற நூல் எது?",
+        "options": [
+          "திருக்குறள்",
+          "நாலடியார்",
+          "அத்திச்சூடி",
+          "பரிபாடல்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "மருத்துவக் கவிஞராக அறியப்படும் சங்க கவிஞர் யார்?",
+        "options": [
+          "அவ்வையார்",
+          "திருவள்ளுவர்",
+          "அகத்தியர்",
+          "நக்கீரர்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "நல்வழி காட்டும் ஒழுக்க பாடல் தொகுப்பு எது?",
+        "options": [
+          "நாலடியார்",
+          "திருக்குறள்",
+          "திருவாசகம்",
+          "திருப்புகழ்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "தமிழ் இலக்கிய வரலாற்றில் முதல் திருவள்ளுவராகக் கருதப்படுபவர் யார்?",
+        "options": [
+          "கபிலர்",
+          "நக்கீரர்",
+          "திருவள்ளுவர்",
+          "சேக்கிழார்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘எம்பெருமான் தரும் துணை’ என்று பாடியவர் யார்?",
+        "options": [
+          "திருஞானசம்பந்தர்",
+          "திருவள்ளுவர்",
+          "அருணகிரிநாதர்",
+          "மாணிக்கவாசகர்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "நாலடியார் நூல் எந்த மதத்தினை சார்ந்தது?",
+        "options": [
+          "இந்து மதம்",
+          "சமண மதம்",
+          "முஸ்லிம் மதம்",
+          "கிறிஸ்தவ மதம்"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "prose": [
+      {
+        "question": "தமிழ் மொழியில் முதல் சிறுகதை ஆசிரியர் யார்?",
+        "options": [
+          "பாரதி",
+          "புதுமைப்பித்தன்",
+          "ஜயகாந்தன்",
+          "வி.வே.சு"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "சிலப்பதிகாரம் எந்த வகை நூல்?",
+        "options": [
+          "சிறுகதை",
+          "நாவல்",
+          "இலக்கண நூல்",
+          "காப்பியம்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "‘பொன்னியின் செல்வன்’ என்ற நூலை எழுதியவர் யார்?",
+        "options": [
+          "சாண்டில்யன்",
+          "வி.வை.ரா",
+          "கல்கி",
+          "சிவசங்கரி"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘அபிராமி அந்தாதி’ என்ன வகை இலக்கியம்?",
+        "options": [
+          "நாவல்",
+          "சிறுகதை",
+          "அருளிச் சொல்",
+          "சமய இலக்கியம்"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "தமிழில் முதல் முழுமையான நாவல் எது?",
+        "options": [
+          "பிரதாப முதலி யார் சரித்திரம்",
+          "சிவகாமியின் சபதம்",
+          "பொன்னியின் செல்வன்",
+          "மோகமூடம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "சாண்டில்யன் எந்த வகை எழுத்தாளராக பெயர் பெற்றவர்?",
+        "options": [
+          "கதாசிரியர்",
+          "நாவலாசிரியர்",
+          "கவிஞர்",
+          "நாடக ஆசிரியர்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘அழியாத கோலங்கள்’ நாவலின் ஆசிரியர் யார்?",
+        "options": [
+          "லட்சுமி",
+          "சிவசங்கரி",
+          "ரா.கே.நாராயணன்",
+          "சாண்டில்யன்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "புதுமைப்பித்தன் எந்த இலக்கிய வடிவத்தில் சிறப்பாக எழுதியவர்?",
+        "options": [
+          "கவிதை",
+          "சிறுகதை",
+          "நாடகம்",
+          "நாவல்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘சிவகாமியின் சபதம்’ எந்த வரலாற்று நாவலாகும்?",
+        "options": [
+          "சோழர் காலம்",
+          "பாண்டியர் காலம்",
+          "பல்லவர் காலம்",
+          "சங்க காலம்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘பாரதியின் கட்டுரைகள்’ எந்த பகுதியை அதிகம் பற்றியது?",
+        "options": [
+          "அரசியல்",
+          "கல்வி",
+          "பெண்கள் உரிமை",
+          "மொழிப்பண்பாடு"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "முதன்முதலில் தமிழ் சிறுகதையை எழுதியவர் யார்?",
+        "options": [
+          "புதுமைப்பித்தன்",
+          "சு. இராமலிங்கம்",
+          "ஜயகாந்தன்",
+          "கல்கி"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘பழனி ஆண்டவர்’ நூலை எழுதியவர் யார்?",
+        "options": [
+          "அருணாசலம்",
+          "பாரதிதாசன்",
+          "சுஜாதா",
+          "அ.ச.கிருஷ்ணன்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "தமிழில் முதல் முழுமையான நாவலாசிரியர் யார்?",
+        "options": [
+          "வெங்கடராமன்",
+          "மதுரை ஜீ.வி.",
+          "ராஜமணிக்கம் பிள்ளை",
+          "ராஜராமன்"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "‘கந்த புராணம்’ என்ன வகை இலக்கியம்?",
+        "options": [
+          "சிறுகதை",
+          "நாவல்",
+          "புராண இலக்கியம்",
+          "நாடகம்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "ஜயகாந்தன் எந்த வகை இலக்கியத்திற்கு புகழ்பெற்றவர்?",
+        "options": [
+          "கவிதை",
+          "சிறுகதை",
+          "நாவல்",
+          "நாடகம்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘சுஜாதா’ என்ற புனைப்பெயரில் எழுதிய எழுத்தாளர் யார்?",
+        "options": [
+          "ரங்கராஜன்",
+          "சிவசங்கரி",
+          "சாண்டில்யன்",
+          "ஜெயகாந்தன்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "‘வெற்றிவேல்’ என்ற வரலாற்று நாவலின் ஆசிரியர் யார்?",
+        "options": [
+          "சிவசங்கரி",
+          "கல்கி",
+          "சாண்டில்யன்",
+          "விக்ரமாதித்யன்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘மோகமூடம்’ நாவலை எழுதியவர் யார்?",
+        "options": [
+          "சுஜாதா",
+          "சாண்டில்யன்",
+          "ஜெயகாந்தன்",
+          "ரா.கி.ரங்கராஜன்"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "‘குறுந்தொகை’ எந்த இலக்கியத்துடன் தொடர்புடையது?",
+        "options": [
+          "சங்க இலக்கியம்",
+          "பக்தி இலக்கியம்",
+          "புராண இலக்கியம்",
+          "நவீன இலக்கியம்"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "தமிழில் முதல் புத்தகமாக வெளியான சிறுகதை தொகுப்பு எது?",
+        "options": [
+          "கதைமுதலி",
+          "அகத்தியம்",
+          "சந்திரமுகி",
+          "நாணயம்"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "english": {
+    "grammar": [
+      {
+        "question": "Which sentence is in the past tense?",
+        "options": [
+          "She sings a song.",
+          "She sang a song.",
+          "She will sing a song.",
+          "She is singing a song."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Identify the correct plural form: 'child'.",
+        "options": [
+          "Childs",
+          "Childes",
+          "Children",
+          "Child's"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which word is an example of an adjective?",
+        "options": [
+          "Quickly",
+          "Happiness",
+          "Beautiful",
+          "Running"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Choose the correct article: 'I saw ____ elephant at the zoo.'",
+        "options": [
+          "A",
+          "An",
+          "The",
+          "No article needed"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the past participle of 'write'?",
+        "options": [
+          "Wrote",
+          "Writing",
+          "Written",
+          "Writes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Identify the correct use of a conjunction: 'She likes tea ____ coffee.'",
+        "options": [
+          "Or",
+          "And",
+          "But",
+          "So"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sentence is in the future tense?",
+        "options": [
+          "She is going home.",
+          "She will go home.",
+          "She went home.",
+          "She goes home."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a possessive pronoun?",
+        "options": [
+          "He",
+          "Him",
+          "His",
+          "Her"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which sentence has a correctly used preposition?",
+        "options": [
+          "She sat on the chair.",
+          "She sat in the chair.",
+          "She sat under the chair.",
+          "She sat between the chair."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Identify the correct verb form: 'He ____ to school every day.'",
+        "options": [
+          "Go",
+          "Goes",
+          "Gone",
+          "Going"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sentence is in passive voice?",
+        "options": [
+          "She wrote a letter.",
+          "A letter was written by her.",
+          "She is writing a letter.",
+          "She writes a letter."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Identify the correct comparative form of 'good'.",
+        "options": [
+          "More good",
+          "Gooder",
+          "Better",
+          "Best"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Choose the correct form of the verb: 'They ____ dinner when I arrived.'",
+        "options": [
+          "Eat",
+          "Were eating",
+          "Ate",
+          "Will eat"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sentence contains a relative clause?",
+        "options": [
+          "She loves playing soccer.",
+          "I met a girl who can sing well.",
+          "She is reading a book.",
+          "They are running in the park."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which word is an example of an interjection?",
+        "options": [
+          "Wow!",
+          "Because",
+          "Quickly",
+          "Under"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Choose the correct sentence with subject-verb agreement.",
+        "options": [
+          "The dog chase the cat.",
+          "The dogs chases the cat.",
+          "The dog chases the cat.",
+          "The dogs chases the cats."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these is a coordinating conjunction?",
+        "options": [
+          "Because",
+          "Although",
+          "And",
+          "Since"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which sentence is in present perfect tense?",
+        "options": [
+          "She has finished her work.",
+          "She finishes her work.",
+          "She finished her work.",
+          "She will finish her work."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Identify the correct use of an adverb.",
+        "options": [
+          "She runs quick.",
+          "She quickly runs.",
+          "She run quickly.",
+          "She running quickly."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the correct form of 'do' in past tense?",
+        "options": [
+          "Did",
+          "Done",
+          "Doing",
+          "Does"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "literature": [
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": [
+          "Jane Austen",
+          "Charles Dickens",
+          "Mark Twain",
+          "Leo Tolstoy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which Shakespearean play features the characters Rosencrantz and Guildenstern?",
+        "options": [
+          "Hamlet",
+          "Macbeth",
+          "Othello",
+          "King Lear"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the opening line of George Orwell's '1984'?",
+        "options": [
+          "'Call me Ishmael.'",
+          "'It was a bright cold day in April, and the clocks were striking thirteen.'",
+          "'Happy families are all alike; every unhappy family is unhappy in its own way.'",
+          "'All this happened, more or less.'"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "options": [
+          "Harper Lee",
+          "J.D. Salinger",
+          "F. Scott Fitzgerald",
+          "Ernest Hemingway"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which novel features the character Jay Gatsby?",
+        "options": [
+          "The Great Gatsby",
+          "Moby-Dick",
+          "Wuthering Heights",
+          "1984"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In 'Romeo and Juliet,' what family is Juliet from?",
+        "options": [
+          "Montague",
+          "Capulet",
+          "Verona",
+          "Mercutio"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who wrote the epic poem 'Paradise Lost'?",
+        "options": [
+          "John Milton",
+          "Geoffrey Chaucer",
+          "William Blake",
+          "Samuel Taylor Coleridge"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of novel is Mary Shelley's 'Frankenstein'?",
+        "options": [
+          "Gothic",
+          "Romantic",
+          "Modernist",
+          "Realist"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who is the main protagonist in Charlotte Brontë's 'Jane Eyre'?",
+        "options": [
+          "Elizabeth Bennet",
+          "Hester Prynne",
+          "Jane Eyre",
+          "Catherine Earnshaw"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which novel begins with 'It is a truth universally acknowledged...'?",
+        "options": [
+          "Pride and Prejudice",
+          "Sense and Sensibility",
+          "Emma",
+          "Mansfield Park"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main theme of 'Animal Farm' by George Orwell?",
+        "options": [
+          "Romance",
+          "Totalitarianism",
+          "Adventure",
+          "Mythology"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which poet wrote 'The Raven'?",
+        "options": [
+          "Edgar Allan Poe",
+          "Walt Whitman",
+          "Emily Dickinson",
+          "Robert Frost"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the name of Sherlock Holmes' assistant?",
+        "options": [
+          "Dr. Watson",
+          "Inspector Lestrade",
+          "Professor Moriarty",
+          "Mycroft Holmes"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who wrote 'Of Mice and Men'?",
+        "options": [
+          "John Steinbeck",
+          "Ernest Hemingway",
+          "William Faulkner",
+          "F. Scott Fitzgerald"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "In 'The Catcher in the Rye,' who is the main character?",
+        "options": [
+          "Holden Caulfield",
+          "Jay Gatsby",
+          "Huckleberry Finn",
+          "Nick Carraway"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the famous novel by Emily Brontë?",
+        "options": [
+          "Jane Eyre",
+          "Wuthering Heights",
+          "The Tenant of Wildfell Hall",
+          "Agnes Grey"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which literary movement was William Wordsworth associated with?",
+        "options": [
+          "Romanticism",
+          "Modernism",
+          "Realism",
+          "Naturalism"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which author wrote 'The Picture of Dorian Gray'?",
+        "options": [
+          "Oscar Wilde",
+          "Arthur Conan Doyle",
+          "Bram Stoker",
+          "Joseph Conrad"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who is the tragic hero in Shakespeare's 'Macbeth'?",
+        "options": [
+          "Macbeth",
+          "Duncan",
+          "Banquo",
+          "Macduff"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which novel is set in the dystopian future of Gilead?",
+        "options": [
+          "Brave New World",
+          "The Handmaid's Tale",
+          "Fahrenheit 451",
+          "1984"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "writing": [
+      {
+        "question": "Which of the following is an example of an expository essay?",
+        "options": [
+          "A story about a childhood memory",
+          "A step-by-step guide on how to bake a cake",
+          "A persuasive argument on climate change",
+          "A poem about nature"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "She don't like pizza.",
+          "Him and I went to the store.",
+          "He and I are going to the park.",
+          "Me is happy today."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of a thesis statement in an essay?",
+        "options": [
+          "To provide background information",
+          "To summarize the essay in one sentence",
+          "To present the main argument or claim",
+          "To list all supporting details"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a transition word?",
+        "options": [
+          "However",
+          "Running",
+          "Apple",
+          "Quickly"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the best way to start a persuasive essay?",
+        "options": [
+          "With a strong opinion statement",
+          "By listing facts with no explanation",
+          "With an unrelated personal story",
+          "By summarizing the conclusion first"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which sentence uses correct punctuation?",
+        "options": [
+          "I love to read; it is my favorite hobby.",
+          "I love to read it is my favorite hobby.",
+          "I love to read: it is my favorite hobby.",
+          "I love to read, it is my favorite hobby."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of writing is used to convince the reader of a point?",
+        "options": [
+          "Narrative",
+          "Persuasive",
+          "Descriptive",
+          "Expository"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does 'show, don’t tell' mean in writing?",
+        "options": [
+          "Use detailed descriptions instead of stating facts",
+          "Only use dialogue in a story",
+          "Tell the reader everything directly",
+          "Write in first-person point of view"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an example of a metaphor?",
+        "options": [
+          "As fast as a cheetah",
+          "The wind whispered through the trees",
+          "She was a shining star in the classroom",
+          "He ran like a gazelle"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which part of an essay provides supporting evidence?",
+        "options": [
+          "Conclusion",
+          "Introduction",
+          "Body paragraphs",
+          "Title"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a formal writing style?",
+        "options": [
+          "Hey, what's up?",
+          "The experiment proved the hypothesis to be correct.",
+          "I dunno, I guess it worked.",
+          "OMG, that was amazing!"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sentence is written in active voice?",
+        "options": [
+          "The cake was eaten by the children.",
+          "The children ate the cake.",
+          "The book was read by Sarah.",
+          "The homework was completed by the students."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main purpose of a topic sentence?",
+        "options": [
+          "To provide a concluding statement",
+          "To introduce the main idea of a paragraph",
+          "To summarize the entire essay",
+          "To list all examples"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a compound sentence?",
+        "options": [
+          "She went to the store and bought apples.",
+          "He runs every morning.",
+          "I was tired, so I went to bed early.",
+          "Running is fun."
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which sentence uses parallel structure?",
+        "options": [
+          "She likes running, to swim, and biking.",
+          "She likes running, swimming, and biking.",
+          "She likes to run, swimming, and to bike.",
+          "She likes running, to swim, and to bike."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of a hook in an introduction?",
+        "options": [
+          "To grab the reader’s attention",
+          "To summarize the essay",
+          "To list key points",
+          "To restate the thesis"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of writing is most commonly used in research papers?",
+        "options": [
+          "Descriptive",
+          "Narrative",
+          "Expository",
+          "Poetic"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is an example of a strong concluding sentence?",
+        "options": [
+          "This is why dogs are the best pets.",
+          "In conclusion, that’s all I have to say.",
+          "I really like writing essays.",
+          "Thank you for reading my paper."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of these is an example of a run-on sentence?",
+        "options": [
+          "I went to the store, and I bought some milk.",
+          "I went to the store I bought some milk.",
+          "I went to the store. I bought some milk.",
+          "I went to the store; I bought some milk."
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the best way to revise a piece of writing?",
+        "options": [
+          "Reading it once and submitting it",
+          "Checking for grammar mistakes only",
+          "Rewriting unclear parts and improving structure",
+          "Adding random details to make it longer"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "vocabulary": [
+      {
+        "question": "What is the synonym of 'Happy'?",
+        "options": [
+          "Sad",
+          "Joyful",
+          "Angry",
+          "Tired"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the antonym of 'Brave'?",
+        "options": [
+          "Fearless",
+          "Cowardly",
+          "Strong",
+          "Bold"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which word means 'to look at something quickly'?",
+        "options": [
+          "Stare",
+          "Glance",
+          "Observe",
+          "Inspect"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the meaning of 'Ambitious'?",
+        "options": [
+          "Having a strong desire to succeed",
+          "Being lazy and unmotivated",
+          "Loving adventure",
+          "Always feeling sleepy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which word is a synonym for 'Huge'?",
+        "options": [
+          "Tiny",
+          "Enormous",
+          "Small",
+          "Little"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these words means 'to make something stronger'?",
+        "options": [
+          "Weaken",
+          "Destroy",
+          "Reinforce",
+          "Reduce"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the word 'Fragile' mean?",
+        "options": [
+          "Strong",
+          "Delicate",
+          "Heavy",
+          "Solid"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these words is an example of an adjective?",
+        "options": [
+          "Run",
+          "Happiness",
+          "Beautiful",
+          "Quickly"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which word is the opposite of 'Expand'?",
+        "options": [
+          "Grow",
+          "Shrink",
+          "Increase",
+          "Extend"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the meaning of 'Generous'?",
+        "options": [
+          "Willing to give and share",
+          "Selfish and greedy",
+          "Easily angered",
+          "Difficult to understand"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which word means 'to stop something from happening'?",
+        "options": [
+          "Encourage",
+          "Prevent",
+          "Allow",
+          "Support"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the word 'Unique' mean?",
+        "options": [
+          "Common",
+          "One of a kind",
+          "Strange",
+          "Old-fashioned"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which word is a synonym for 'Famous'?",
+        "options": [
+          "Unknown",
+          "Popular",
+          "Ordinary",
+          "Simple"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these words means 'full of energy'?",
+        "options": [
+          "Lazy",
+          "Lethargic",
+          "Lively",
+          "Boring"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the meaning of 'Punctual'?",
+        "options": [
+          "Always arriving late",
+          "Arriving on time",
+          "Taking a lot of time",
+          "Not caring about time"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following words means 'to make a choice'?",
+        "options": [
+          "Decide",
+          "Guess",
+          "Complain",
+          "Refuse"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the synonym of 'Calm'?",
+        "options": [
+          "Nervous",
+          "Relaxed",
+          "Excited",
+          "Loud"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these words means 'to fix something'?",
+        "options": [
+          "Break",
+          "Repair",
+          "Destroy",
+          "Ignore"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the antonym of 'Weak'?",
+        "options": [
+          "Fragile",
+          "Tired",
+          "Strong",
+          "Slow"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the word 'Frequent' mean?",
+        "options": [
+          "Happening often",
+          "Occurring rarely",
+          "Completely new",
+          "Very fast"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "maths": {
+    "arithmetic": [
+      {
+        "question": "What is 15 + 27?",
+        "options": [
+          "32",
+          "42",
+          "37",
+          "52"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the value of 9 × 8?",
+        "options": [
+          "72",
+          "64",
+          "81",
+          "88"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is 144 ÷ 12?",
+        "options": [
+          "11",
+          "12",
+          "13",
+          "10"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following numbers is a prime number?",
+        "options": [
+          "21",
+          "37",
+          "40",
+          "49"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the greatest common divisor (GCD) of 36 and 48?",
+        "options": [
+          "6",
+          "12",
+          "18",
+          "24"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the least common multiple (LCM) of 4 and 5?",
+        "options": [
+          "10",
+          "15",
+          "20",
+          "25"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "If a number is divisible by both 2 and 3, it must also be divisible by:",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "9"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is 75% of 200?",
+        "options": [
+          "125",
+          "150",
+          "175",
+          "100"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the result of 3² + 4²?",
+        "options": [
+          "9",
+          "12",
+          "16",
+          "25"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "If a shirt costs $30 and is on sale for 20% off, what is the discounted price?",
+        "options": [
+          "$24",
+          "$25",
+          "$26",
+          "$27"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the sum of the first 5 natural numbers?",
+        "options": [
+          "10",
+          "15",
+          "20",
+          "25"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If a car travels 60 km in 1.5 hours, what is its speed in km/h?",
+        "options": [
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A number when multiplied by 6 gives 72. What is the number?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A train departs at 10:15 AM and arrives at 12:45 PM. How long was the journey?",
+        "options": [
+          "2 hours",
+          "2.5 hours",
+          "3 hours",
+          "3.5 hours"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the result of 5 × (4 + 3)?",
+        "options": [
+          "35",
+          "20",
+          "15",
+          "25"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "A store sells apples for $2 each. If you buy 4 apples and get 1 free, how much do you pay?",
+        "options": [
+          "$6",
+          "$8",
+          "$10",
+          "$12"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If 3 pencils cost $9, how much does 1 pencil cost?",
+        "options": [
+          "$1",
+          "$2",
+          "$3",
+          "$4"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A rectangle has a length of 10 cm and a width of 4 cm. What is its area?",
+        "options": [
+          "30 cm²",
+          "40 cm²",
+          "50 cm²",
+          "60 cm²"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is 1/4 expressed as a decimal?",
+        "options": [
+          "0.1",
+          "0.25",
+          "0.4",
+          "0.5"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If a pizza is cut into 8 equal slices and you eat 3 slices, what fraction of the pizza is left?",
+        "options": [
+          "5/8",
+          "3/8",
+          "1/2",
+          "1/4"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "algebra": [
+      {
+        "question": "What is the value of x in the equation 2x + 5 = 15?",
+        "options": [
+          "5",
+          "10",
+          "7",
+          "8"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the solution to the equation x² = 49?",
+        "options": [
+          "7",
+          "-7",
+          "7 and -7",
+          "None"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is a binomial?",
+        "options": [
+          "x + 3",
+          "x² + 2x + 1",
+          "x³ + 4x² + x + 5",
+          "x⁴ - 3x³ + 2x² - x + 6"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If f(x) = 3x + 2, what is f(4)?",
+        "options": [
+          "12",
+          "14",
+          "16",
+          "18"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the product of (x + 3)(x - 3)?",
+        "options": [
+          "x² - 9",
+          "x² + 9",
+          "x² - 6x + 9",
+          "x² + 6x - 9"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Solve for x: 3x - 7 = 2x + 5",
+        "options": [
+          "7",
+          "12",
+          "-7",
+          "-12"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Factorize: x² + 5x + 6",
+        "options": [
+          "(x + 2)(x + 3)",
+          "(x - 2)(x - 3)",
+          "(x + 1)(x + 6)",
+          "(x - 1)(x - 6)"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "If 5x = 20, what is x?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a quadratic equation?",
+        "options": [
+          "x + 3 = 7",
+          "x² - 4x + 4 = 0",
+          "x³ + 2x = 5",
+          "3x - 2 = 0"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the value of 2³?",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Solve for x: x² - 16 = 0",
+        "options": [
+          "4",
+          "-4",
+          "4 and -4",
+          "None"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the coefficient of x in the expression 7x - 3?",
+        "options": [
+          "-3",
+          "7",
+          "4",
+          "10"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If a = 2 and b = 3, what is the value of 2a + 3b?",
+        "options": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Expand: (x + 4)²",
+        "options": [
+          "x² + 8x + 16",
+          "x² + 4x + 16",
+          "x² + 16",
+          "x² + 16x + 4"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the degree of the polynomial 5x³ - 2x² + 4?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "If y = 3x + 5, what is the y-intercept?",
+        "options": [
+          "3",
+          "5",
+          "8",
+          "0"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Solve for x: 4(x - 3) = 8",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the inverse of the function f(x) = x + 2?",
+        "options": [
+          "f⁻¹(x) = x - 2",
+          "f⁻¹(x) = x + 2",
+          "f⁻¹(x) = x / 2",
+          "f⁻¹(x) = 2x"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which equation represents a straight line?",
+        "options": [
+          "x² + y² = 25",
+          "y = 3x + 2",
+          "y² = 4x",
+          "x³ - 2x = 0"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the sum of the roots of the equation x² - 5x + 6 = 0?",
+        "options": [
+          "5",
+          "6",
+          "11",
+          "1"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "geometry": [
+      {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": [
+          "90°",
+          "180°",
+          "270°",
+          "360°"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A square has a side length of 4 cm. What is its area?",
+        "options": [
+          "8 cm²",
+          "12 cm²",
+          "16 cm²",
+          "20 cm²"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of triangle has all three sides of different lengths?",
+        "options": [
+          "Equilateral",
+          "Isosceles",
+          "Scalene",
+          "Right"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many degrees are there in a right angle?",
+        "options": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the perimeter of a rectangle with length 10 cm and width 5 cm?",
+        "options": [
+          "15 cm",
+          "20 cm",
+          "30 cm",
+          "40 cm"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the formula for the circumference of a circle?",
+        "options": [
+          "πr²",
+          "2πr",
+          "πd",
+          "2r"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the sum of the exterior angles of any polygon?",
+        "options": [
+          "180°",
+          "270°",
+          "360°",
+          "Depends on the number of sides"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A parallelogram has opposite sides that are always:",
+        "options": [
+          "Equal",
+          "Perpendicular",
+          "Unequal",
+          "Curved"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the name of a 5-sided polygon?",
+        "options": [
+          "Quadrilateral",
+          "Pentagon",
+          "Hexagon",
+          "Octagon"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the volume of a cube with a side length of 3 cm?",
+        "options": [
+          "9 cm³",
+          "18 cm³",
+          "27 cm³",
+          "36 cm³"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which shape has exactly one pair of parallel sides?",
+        "options": [
+          "Square",
+          "Rectangle",
+          "Trapezium",
+          "Rhombus"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these angles is an obtuse angle?",
+        "options": [
+          "45°",
+          "75°",
+          "120°",
+          "25°"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many faces does a cylinder have?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which transformation flips a shape over a line?",
+        "options": [
+          "Translation",
+          "Rotation",
+          "Reflection",
+          "Dilation"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the longest side of a right triangle called?",
+        "options": [
+          "Base",
+          "Height",
+          "Hypotenuse",
+          "Diagonal"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which theorem states that the square of the hypotenuse is equal to the sum of the squares of the other two sides?",
+        "options": [
+          "Pythagorean Theorem",
+          "Thales' Theorem",
+          "Euclidean Theorem",
+          "Trigonometric Theorem"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of angle is greater than 180° but less than 360°?",
+        "options": [
+          "Acute",
+          "Right",
+          "Obtuse",
+          "Reflex"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "If a triangle has sides of length 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+        "options": [
+          "Scalene",
+          "Isosceles",
+          "Equilateral",
+          "Right-angled"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which quadrilateral has all four sides equal but does not necessarily have 90° angles?",
+        "options": [
+          "Rectangle",
+          "Square",
+          "Rhombus",
+          "Trapezium"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the name of a line that touches a circle at exactly one point?",
+        "options": [
+          "Chord",
+          "Secant",
+          "Tangent",
+          "Radius"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "trigonometry": [
+      {
+        "question": "What is the sine of 90°?",
+        "options": [
+          "0",
+          "1",
+          "-1",
+          "Undefined"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which trigonometric function is the reciprocal of sine?",
+        "options": [
+          "Cosine",
+          "Tangent",
+          "Cosecant",
+          "Secant"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the value of cos 0°?",
+        "options": [
+          "0",
+          "1",
+          "-1",
+          "Undefined"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which trigonometric function is defined as the ratio of opposite to adjacent sides in a right triangle?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent",
+          "Secant"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the hypotenuse in a right triangle?",
+        "options": [
+          "The longest side",
+          "The shortest side",
+          "The opposite side",
+          "The adjacent side"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which trigonometric function is the reciprocal of cosine?",
+        "options": [
+          "Secant",
+          "Tangent",
+          "Cosecant",
+          "Cotangent"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the value of tan 45°?",
+        "options": [
+          "0",
+          "1",
+          "√2",
+          "Undefined"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If sin A = 3/5, what is cos A in a right triangle?",
+        "options": [
+          "4/5",
+          "3/5",
+          "5/3",
+          "5/4"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which identity states that sin²θ + cos²θ = ?",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "Undefined"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the value of sin 30°?",
+        "options": [
+          "1/2",
+          "√3/2",
+          "1",
+          "0"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The angle 270° is located in which quadrant?",
+        "options": [
+          "First",
+          "Second",
+          "Third",
+          "Fourth"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the period of the sine function?",
+        "options": [
+          "90°",
+          "180°",
+          "270°",
+          "360°"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "If sin A = 0.6, what is cos A?",
+        "options": [
+          "0.4",
+          "0.8",
+          "0.9",
+          "1.0"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the general formula for the tangent function?",
+        "options": [
+          "sinθ/cosθ",
+          "cosθ/sinθ",
+          "1/sinθ",
+          "1/cosθ"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The inverse of the sine function is called?",
+        "options": [
+          "Secant",
+          "Cosecant",
+          "Arcsin",
+          "Cotangent"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the value of cos 180°?",
+        "options": [
+          "1",
+          "0",
+          "-1",
+          "Undefined"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which function is undefined at 90°?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent",
+          "Cosecant"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which identity states that 1 + tan²θ = ?",
+        "options": [
+          "sin²θ",
+          "cos²θ",
+          "sec²θ",
+          "cot²θ"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "If sin A = 1, what is the value of A?",
+        "options": [
+          "0°",
+          "30°",
+          "90°",
+          "180°"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which function is positive in the second quadrant?",
+        "options": [
+          "Sine",
+          "Cosine",
+          "Tangent",
+          "Secant"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "statistics": [
+      {
+        "question": "What is the mean of the numbers 2, 4, 6, 8, and 10?",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which measure of central tendency is most affected by extreme values?",
+        "options": [
+          "Mean",
+          "Median",
+          "Mode",
+          "Range"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The middle value of an ordered data set is called?",
+        "options": [
+          "Mean",
+          "Mode",
+          "Median",
+          "Range"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the mode of the data set: 2, 3, 3, 4, 5, 5, 5, 6?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the range of the numbers 10, 20, 30, 40, and 50?",
+        "options": [
+          "30",
+          "40",
+          "50",
+          "20"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does standard deviation measure?",
+        "options": [
+          "The average value",
+          "The variation in data",
+          "The highest value",
+          "The sum of values"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which measure is NOT a measure of central tendency?",
+        "options": [
+          "Mean",
+          "Median",
+          "Mode",
+          "Standard Deviation"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "If a dataset has two modes, it is called?",
+        "options": [
+          "Unimodal",
+          "Bimodal",
+          "Multimodal",
+          "Nominal"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What type of graph is used to display the frequency of data?",
+        "options": [
+          "Pie chart",
+          "Histogram",
+          "Line graph",
+          "Bar chart"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the probability of rolling a 4 on a fair 6-sided die?",
+        "options": [
+          "1/2",
+          "1/4",
+          "1/6",
+          "1/3"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the median of the dataset: 15, 20, 25, 30, 35?",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a measure of dispersion?",
+        "options": [
+          "Mean",
+          "Median",
+          "Variance",
+          "Mode"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does a box plot represent?",
+        "options": [
+          "Mean only",
+          "Median and range",
+          "All data values",
+          "Only the highest value"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the probability of flipping heads on a fair coin?",
+        "options": [
+          "1/3",
+          "1/4",
+          "1/2",
+          "2/3"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "A normal distribution is also called?",
+        "options": [
+          "Bell curve",
+          "Uniform distribution",
+          "Skewed distribution",
+          "Cumulative curve"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which measure represents how far each data point is from the mean?",
+        "options": [
+          "Mode",
+          "Standard deviation",
+          "Range",
+          "Median"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does a high standard deviation indicate?",
+        "options": [
+          "Data points are close to the mean",
+          "Data points are spread out",
+          "Data set is small",
+          "Mean is high"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which method is used to find the probability of two independent events happening together?",
+        "options": [
+          "Addition rule",
+          "Multiplication rule",
+          "Subtraction rule",
+          "Division rule"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the first step in statistical analysis?",
+        "options": [
+          "Data collection",
+          "Data visualization",
+          "Hypothesis testing",
+          "Finding mean"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the interquartile range (IQR) measure?",
+        "options": [
+          "Difference between maximum and minimum values",
+          "Range of the middle 50% of data",
+          "Mean of the dataset",
+          "Standard deviation"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "biology": {
+    "botany": [
+      {
+        "question": "What is the process by which plants make their food?",
+        "options": [
+          "Respiration",
+          "Transpiration",
+          "Photosynthesis",
+          "Fermentation"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which pigment is responsible for photosynthesis?",
+        "options": [
+          "Carotene",
+          "Chlorophyll",
+          "Anthocyanin",
+          "Xanthophyll"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which part of the plant absorbs water and minerals from the soil?",
+        "options": [
+          "Stem",
+          "Leaves",
+          "Flowers",
+          "Roots"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What type of plant has seeds enclosed in fruits?",
+        "options": [
+          "Gymnosperms",
+          "Angiosperms",
+          "Ferns",
+          "Bryophytes"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which gas is released during photosynthesis?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which plant tissue is responsible for transporting water?",
+        "options": [
+          "Phloem",
+          "Xylem",
+          "Epidermis",
+          "Parenchyma"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main function of stomata?",
+        "options": [
+          "Water absorption",
+          "Photosynthesis",
+          "Gas exchange",
+          "Food storage"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is a non-flowering plant?",
+        "options": [
+          "Rose",
+          "Mango",
+          "Fern",
+          "Sunflower"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which part of the flower develops into a fruit?",
+        "options": [
+          "Petal",
+          "Ovary",
+          "Stigma",
+          "Anther"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main function of root hairs?",
+        "options": [
+          "Photosynthesis",
+          "Reproduction",
+          "Water absorption",
+          "Seed production"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What type of root system do monocots usually have?",
+        "options": [
+          "Taproot",
+          "Fibrous root",
+          "Adventitious root",
+          "None of the above"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which plant hormone is responsible for fruit ripening?",
+        "options": [
+          "Auxin",
+          "Gibberellin",
+          "Ethylene",
+          "Cytokinin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which part of a plant is responsible for photosynthesis?",
+        "options": [
+          "Stem",
+          "Root",
+          "Leaves",
+          "Flower"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the process by which water evaporates from plant leaves?",
+        "options": [
+          "Respiration",
+          "Transpiration",
+          "Photosynthesis",
+          "Fermentation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a leguminous plant?",
+        "options": [
+          "Wheat",
+          "Maize",
+          "Pea",
+          "Rice"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the female reproductive part of a flower?",
+        "options": [
+          "Anther",
+          "Filament",
+          "Stamen",
+          "Carpel"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What do we call plants that grow in water?",
+        "options": [
+          "Xerophytes",
+          "Mesophytes",
+          "Hydrophytes",
+          "Epiphytes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these plants is an example of a Bryophyte?",
+        "options": [
+          "Moss",
+          "Fern",
+          "Pine",
+          "Cactus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which part of the plant is used for vegetative propagation in potatoes?",
+        "options": [
+          "Root",
+          "Stem",
+          "Leaves",
+          "Seeds"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the process of seed germination?",
+        "options": [
+          "Seed dispersal",
+          "Seed growth",
+          "Seed formation",
+          "Seed metabolism"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "zoology": [
+      {
+        "question": "Which is the largest animal on Earth?",
+        "options": [
+          "Elephant",
+          "Blue Whale",
+          "Giraffe",
+          "Shark"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the basic unit of the nervous system?",
+        "options": [
+          "Neuron",
+          "Axon",
+          "Dendrite",
+          "Synapse"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is a warm-blooded animal?",
+        "options": [
+          "Frog",
+          "Snake",
+          "Penguin",
+          "Crocodile"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the process by which amphibians develop from larvae to adults?",
+        "options": [
+          "Mitosis",
+          "Metamorphosis",
+          "Fertilization",
+          "Regeneration"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which organ do fish use to breathe?",
+        "options": [
+          "Lungs",
+          "Gills",
+          "Skin",
+          "Trachea"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "options": [
+          "Crow",
+          "Sparrow",
+          "Parrot",
+          "Eagle"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of skeleton is found in insects?",
+        "options": [
+          "Exoskeleton",
+          "Endoskeleton",
+          "Hydrostatic skeleton",
+          "Cartilaginous skeleton"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following animals is a marsupial?",
+        "options": [
+          "Kangaroo",
+          "Tiger",
+          "Bear",
+          "Elephant"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which mammal is capable of true flight?",
+        "options": [
+          "Squirrel",
+          "Bat",
+          "Kangaroo",
+          "Rabbit"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which animal is known as the 'Ship of the Desert'?",
+        "options": [
+          "Horse",
+          "Elephant",
+          "Camel",
+          "Donkey"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which is the fastest land animal?",
+        "options": [
+          "Cheetah",
+          "Horse",
+          "Lion",
+          "Leopard"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main function of red blood cells?",
+        "options": [
+          "Fight infections",
+          "Transport oxygen",
+          "Clot blood",
+          "Digest food"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these animals is an invertebrate?",
+        "options": [
+          "Frog",
+          "Eagle",
+          "Spider",
+          "Shark"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which part of the body do snakes use to smell?",
+        "options": [
+          "Tongue",
+          "Nose",
+          "Ears",
+          "Eyes"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organ in mammals filters waste from the blood?",
+        "options": [
+          "Heart",
+          "Liver",
+          "Lungs",
+          "Kidneys"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which group of animals lay eggs but produce milk for their young?",
+        "options": [
+          "Marsupials",
+          "Monotremes",
+          "Reptiles",
+          "Rodents"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which animal is known to have the strongest bite force?",
+        "options": [
+          "Lion",
+          "Crocodile",
+          "Shark",
+          "Tiger"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the function of the ribcage in vertebrates?",
+        "options": [
+          "Support walking",
+          "Pump blood",
+          "Protect internal organs",
+          "Help digestion"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which organ in birds helps them grind food?",
+        "options": [
+          "Gizzard",
+          "Stomach",
+          "Intestine",
+          "Crop"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of reproduction involves only one parent?",
+        "options": [
+          "Sexual reproduction",
+          "Asexual reproduction",
+          "Viviparous reproduction",
+          "Oviparous reproduction"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "genetics": [
+      {
+        "question": "Who is known as the father of genetics?",
+        "options": [
+          "Charles Darwin",
+          "Gregor Mendel",
+          "James Watson",
+          "Rosalind Franklin"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What are the basic units of heredity?",
+        "options": [
+          "Chromosomes",
+          "Genes",
+          "Proteins",
+          "Ribosomes"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following represents a homozygous dominant genotype?",
+        "options": [
+          "Aa",
+          "aa",
+          "AA",
+          "AB"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the shape of a DNA molecule?",
+        "options": [
+          "Double helix",
+          "Single strand",
+          "Triple strand",
+          "Linear chain"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which nitrogenous base is NOT found in RNA?",
+        "options": [
+          "Adenine",
+          "Thymine",
+          "Cytosine",
+          "Guanine"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a sex-linked disorder?",
+        "options": [
+          "Sickle cell anemia",
+          "Cystic fibrosis",
+          "Hemophilia",
+          "Diabetes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is a mutation?",
+        "options": [
+          "A change in DNA sequence",
+          "A type of RNA",
+          "A form of protein",
+          "A blood disorder"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the term for a physical characteristic expressed by a gene?",
+        "options": [
+          "Genotype",
+          "Phenotype",
+          "Allele",
+          "Chromosome"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following best describes a recessive allele?",
+        "options": [
+          "Always expressed",
+          "Only expressed in the absence of a dominant allele",
+          "Found only in males",
+          "Causes mutations"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is an example of incomplete dominance?",
+        "options": [
+          "Red and white flowers producing pink flowers",
+          "Brown eyes being dominant over blue",
+          "Blood type inheritance",
+          "Color blindness"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the function of mRNA?",
+        "options": [
+          "Stores genetic material",
+          "Transports amino acids",
+          "Carries genetic instructions from DNA to ribosomes",
+          "Repairs mutations"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of RNA carries amino acids to the ribosome?",
+        "options": [
+          "mRNA",
+          "tRNA",
+          "rRNA",
+          "snRNA"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the name of the process by which DNA is copied?",
+        "options": [
+          "Replication",
+          "Translation",
+          "Transcription",
+          "Mutation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an autosomal dominant disorder?",
+        "options": [
+          "Cystic fibrosis",
+          "Tay-Sachs disease",
+          "Huntington’s disease",
+          "Sickle cell anemia"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is a karyotype?",
+        "options": [
+          "A type of RNA",
+          "A genetic disorder",
+          "A display of chromosomes",
+          "A protein structure"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the purpose of a Punnett square?",
+        "options": [
+          "To predict genetic crosses",
+          "To analyze protein structure",
+          "To identify mutations",
+          "To count chromosomes"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does 'XX' represent in human genetics?",
+        "options": [
+          "Male",
+          "Female",
+          "Homozygous recessive",
+          "Homozygous dominant"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following genetic disorders is caused by an extra chromosome 21?",
+        "options": [
+          "Turner syndrome",
+          "Down syndrome",
+          "Klinefelter syndrome",
+          "Sickle cell disease"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What type of mutation does NOT change the amino acid sequence of a protein?",
+        "options": [
+          "Missense mutation",
+          "Nonsense mutation",
+          "Silent mutation",
+          "Frameshift mutation"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following processes converts RNA into a protein?",
+        "options": [
+          "Replication",
+          "Transcription",
+          "Translation",
+          "Mutation"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "ecology": [
+      {
+        "question": "What is the study of interactions between organisms and their environment called?",
+        "options": [
+          "Biology",
+          "Ecology",
+          "Genetics",
+          "Zoology"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a biotic factor in an ecosystem?",
+        "options": [
+          "Sunlight",
+          "Water",
+          "Soil",
+          "Trees"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which term refers to all the living organisms in a particular area?",
+        "options": [
+          "Habitat",
+          "Community",
+          "Ecosystem",
+          "Biosphere"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary source of energy for most ecosystems?",
+        "options": [
+          "Wind",
+          "Water",
+          "The Sun",
+          "Soil"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a decomposer?",
+        "options": [
+          "Lion",
+          "Fungi",
+          "Eagle",
+          "Shark"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of consumer only eats plants?",
+        "options": [
+          "Carnivore",
+          "Omnivore",
+          "Herbivore",
+          "Scavenger"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the role of producers in an ecosystem?",
+        "options": [
+          "Break down organic matter",
+          "Consume other organisms",
+          "Convert sunlight into energy",
+          "Store carbon dioxide"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which process do plants use to produce energy?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Fermentation",
+          "Digestion"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is an organism's role in its environment called?",
+        "options": [
+          "Habitat",
+          "Ecosystem",
+          "Niche",
+          "Trophic level"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an abiotic factor in an ecosystem?",
+        "options": [
+          "Bacteria",
+          "Grass",
+          "Rainfall",
+          "Frog"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the term for a group of the same species living in an area?",
+        "options": [
+          "Community",
+          "Ecosystem",
+          "Population",
+          "Biosphere"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these is an example of mutualism?",
+        "options": [
+          "A lion eating a zebra",
+          "A clownfish living in a sea anemone",
+          "A mosquito feeding on blood",
+          "A hawk hunting a mouse"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of ecological relationship benefits one organism while harming another?",
+        "options": [
+          "Mutualism",
+          "Parasitism",
+          "Commensalism",
+          "Competition"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of succession occurs after a volcanic eruption?",
+        "options": [
+          "Primary succession",
+          "Secondary succession",
+          "Tertiary succession",
+          "Climax succession"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which biome is characterized by low rainfall and extreme temperatures?",
+        "options": [
+          "Rainforest",
+          "Desert",
+          "Tundra",
+          "Savanna"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is biomagnification?",
+        "options": [
+          "The increase of toxins as they move up the food chain",
+          "The increase of oxygen in plants",
+          "The process of photosynthesis",
+          "The process of energy transfer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What happens in an ecosystem when the top predator is removed?",
+        "options": [
+          "Nothing changes",
+          "Prey populations increase",
+          "Prey populations decrease",
+          "Producers stop growing"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the term for species that have a large impact on their ecosystem?",
+        "options": [
+          "Primary species",
+          "Keystone species",
+          "Dominant species",
+          "Endangered species"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the term for the movement of water through the environment?",
+        "options": [
+          "Carbon cycle",
+          "Nitrogen cycle",
+          "Water cycle",
+          "Energy cycle"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which human activity contributes the most to climate change?",
+        "options": [
+          "Fishing",
+          "Burning fossil fuels",
+          "Recycling",
+          "Planting trees"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "chemistry": {
+    "organic-chemistry": [
+      {
+        "question": "What is the general formula for alkanes?",
+        "options": [
+          "CnH2n",
+          "CnH2n+2",
+          "CnH2n-2",
+          "CnH2nO2"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which functional group is present in alcohols?",
+        "options": [
+          "-OH",
+          "-COOH",
+          "-NH2",
+          "-CHO"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What type of reaction occurs when an alkene reacts with hydrogen?",
+        "options": [
+          "Substitution",
+          "Addition",
+          "Elimination",
+          "Oxidation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an aromatic hydrocarbon?",
+        "options": [
+          "Methane",
+          "Ethene",
+          "Benzene",
+          "Butane"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which reagent is used to test for the presence of alkenes?",
+        "options": [
+          "Benedict’s solution",
+          "Tollens’ reagent",
+          "Bromine water",
+          "Fehling’s solution"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the IUPAC name of CH3-CH=CH2?",
+        "options": [
+          "Propane",
+          "Propene",
+          "Propyne",
+          "Propanol"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following compounds has an ester functional group?",
+        "options": [
+          "Methanol",
+          "Ethanoic acid",
+          "Ethyl ethanoate",
+          "Ethanol"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the molecular formula of benzene?",
+        "options": [
+          "C6H12",
+          "C6H10",
+          "C6H6",
+          "C6H8"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a polymer?",
+        "options": [
+          "Methane",
+          "Ethylene",
+          "Nylon",
+          "Propene"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the functional group of aldehydes?",
+        "options": [
+          "-OH",
+          "-COOH",
+          "-CHO",
+          "-NH2"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the product when ethene reacts with water in the presence of acid?",
+        "options": [
+          "Ethanol",
+          "Ethanoic acid",
+          "Ethane",
+          "Ethanal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following compounds contains a ketone functional group?",
+        "options": [
+          "Propanal",
+          "Propanone",
+          "Methanol",
+          "Ethanol"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the functional group present in amines?",
+        "options": [
+          "-OH",
+          "-NH2",
+          "-COOH",
+          "-CHO"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What type of reaction is involved in the formation of an ester?",
+        "options": [
+          "Hydrolysis",
+          "Neutralization",
+          "Condensation",
+          "Combustion"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a carboxylic acid?",
+        "options": [
+          "Methanol",
+          "Ethanoic acid",
+          "Ethyl ethanoate",
+          "Acetone"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which polymer is formed from ethene?",
+        "options": [
+          "Polyvinyl chloride",
+          "Polyethylene",
+          "Polystyrene",
+          "Polyester"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a saturated hydrocarbon?",
+        "options": [
+          "Ethene",
+          "Ethyne",
+          "Ethane",
+          "Benzene"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the main component of natural gas?",
+        "options": [
+          "Propane",
+          "Methane",
+          "Butane",
+          "Ethane"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which compound is commonly used as a solvent in perfumes?",
+        "options": [
+          "Ethanol",
+          "Methanol",
+          "Acetone",
+          "Ethanoic acid"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the IUPAC name of CH3COOH?",
+        "options": [
+          "Methanoic acid",
+          "Ethanoic acid",
+          "Propanoic acid",
+          "Butanoic acid"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "inorganic-chemistry": [
+      {
+        "question": "Which element is the most abundant in Earth's crust?",
+        "options": [
+          "Oxygen",
+          "Silicon",
+          "Aluminum",
+          "Iron"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical formula for rust?",
+        "options": [
+          "FeO",
+          "Fe2O3",
+          "Fe3O4",
+          "Fe(OH)3"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Argon",
+          "Nitrogen"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following elements is a halogen?",
+        "options": [
+          "Sulfur",
+          "Chlorine",
+          "Sodium",
+          "Calcium"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the oxidation state of hydrogen in water (H2O)?",
+        "options": [
+          "+1",
+          "-1",
+          "0",
+          "+2"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the common name of calcium sulfate dihydrate?",
+        "options": [
+          "Gypsum",
+          "Limestone",
+          "Dolomite",
+          "Quicklime"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which metal is extracted from bauxite ore?",
+        "options": [
+          "Iron",
+          "Copper",
+          "Aluminum",
+          "Zinc"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following acids is known as 'king of chemicals'?",
+        "options": [
+          "Nitric acid",
+          "Sulfuric acid",
+          "Hydrochloric acid",
+          "Phosphoric acid"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following elements is a transition metal?",
+        "options": [
+          "Sodium",
+          "Magnesium",
+          "Iron",
+          "Aluminum"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the molecular formula of ozone?",
+        "options": [
+          "O2",
+          "O3",
+          "O4",
+          "O5"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which gas is responsible for the characteristic smell of rotten eggs?",
+        "options": [
+          "Carbon dioxide",
+          "Hydrogen sulfide",
+          "Ammonia",
+          "Methane"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary component of natural diamonds?",
+        "options": [
+          "Carbon",
+          "Silicon",
+          "Graphite",
+          "Quartz"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which group of elements in the periodic table is known as alkali metals?",
+        "options": [
+          "Group 1",
+          "Group 2",
+          "Group 17",
+          "Group 18"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical formula of limestone?",
+        "options": [
+          "CaCO3",
+          "CaO",
+          "Ca(OH)2",
+          "CaCl2"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following elements is a metalloid?",
+        "options": [
+          "Carbon",
+          "Sulfur",
+          "Boron",
+          "Neon"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which gas is commonly used in balloons and airships due to its low density and non-flammability?",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Helium"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which of the following is a characteristic property of nonmetals?",
+        "options": [
+          "High conductivity",
+          "Malleability",
+          "Dull appearance",
+          "Ductility"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which compound is commonly known as quicklime?",
+        "options": [
+          "CaO",
+          "Ca(OH)2",
+          "CaCO3",
+          "CaCl2"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the chemical formula of ammonia?",
+        "options": [
+          "NH3",
+          "NH2",
+          "N2H4",
+          "NO2"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which element is essential for the production of hemoglobin in the human body?",
+        "options": [
+          "Zinc",
+          "Iron",
+          "Copper",
+          "Magnesium"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "physical-chemistry": [
+      {
+        "question": "What is the SI unit of pressure?",
+        "options": [
+          "Pascal",
+          "Bar",
+          "Atmosphere",
+          "Torr"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which gas law states that the volume of a gas is inversely proportional to its pressure at constant temperature?",
+        "options": [
+          "Boyle's Law",
+          "Charles's Law",
+          "Avogadro's Law",
+          "Ideal Gas Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the value of the universal gas constant (R) in J/mol·K?",
+        "options": [
+          "8.314",
+          "0.0821",
+          "9.81",
+          "6.022"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which thermodynamic law states that energy cannot be created or destroyed?",
+        "options": [
+          "First Law",
+          "Second Law",
+          "Third Law",
+          "Zeroth Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which property measures the disorder of a system?",
+        "options": [
+          "Enthalpy",
+          "Entropy",
+          "Gibbs Free Energy",
+          "Internal Energy"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the pH of a neutral solution at 25°C?",
+        "options": [
+          "7",
+          "0",
+          "14",
+          "10"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an exothermic process?",
+        "options": [
+          "Melting",
+          "Evaporation",
+          "Condensation",
+          "Boiling"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the boiling point of water at standard atmospheric pressure?",
+        "options": [
+          "0°C",
+          "100°C",
+          "273°C",
+          "212°C"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a colligative property?",
+        "options": [
+          "Boiling point elevation",
+          "Density",
+          "Viscosity",
+          "Surface tension"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which equation describes the relationship between Gibbs free energy, enthalpy, entropy, and temperature?",
+        "options": [
+          "G = H - TS",
+          "PV = nRT",
+          "ΔE = q + w",
+          "F = ma"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the term for the minimum energy required for a chemical reaction to occur?",
+        "options": [
+          "Enthalpy",
+          "Activation energy",
+          "Entropy",
+          "Reaction rate"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which scientist proposed the kinetic theory of gases?",
+        "options": [
+          "Newton",
+          "Boltzmann",
+          "Boyle",
+          "Dalton"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happens to the rate of reaction when the temperature increases?",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Remains constant",
+          "Becomes zero"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which term refers to the measure of how much solute can dissolve in a given amount of solvent?",
+        "options": [
+          "Solubility",
+          "Concentration",
+          "Molarity",
+          "Molality"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an example of an ideal gas?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Helium",
+          "None of the above"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which principle states that a system at equilibrium will shift to counteract a change in conditions?",
+        "options": [
+          "Le Chatelier's Principle",
+          "Pauli Exclusion Principle",
+          "Heisenberg Uncertainty Principle",
+          "Dalton's Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which state of matter has a definite volume but takes the shape of its container?",
+        "options": [
+          "Solid",
+          "Liquid",
+          "Gas",
+          "Plasma"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What type of bond is formed when electrons are shared unequally between atoms?",
+        "options": [
+          "Ionic",
+          "Nonpolar covalent",
+          "Polar covalent",
+          "Metallic"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which factor does NOT affect the rate of a chemical reaction?",
+        "options": [
+          "Concentration",
+          "Pressure",
+          "Color",
+          "Temperature"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of reaction releases heat?",
+        "options": [
+          "Exothermic",
+          "Endothermic",
+          "Reversible",
+          "Electrolytic"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "analytical-chemistry": [
+      {
+        "question": "Which technique is used to separate components of a mixture based on their boiling points?",
+        "options": [
+          "Chromatography",
+          "Distillation",
+          "Titration",
+          "Spectroscopy"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary purpose of a buffer solution?",
+        "options": [
+          "To speed up reactions",
+          "To maintain a stable pH",
+          "To increase solubility",
+          "To act as a catalyst"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of chromatography is based on the polarity of substances?",
+        "options": [
+          "Gas Chromatography",
+          "Thin Layer Chromatography",
+          "Ion Exchange Chromatography",
+          "Size Exclusion Chromatography"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main principle of spectrophotometry?",
+        "options": [
+          "Measuring mass",
+          "Measuring absorbance of light",
+          "Separating mixtures",
+          "Measuring conductivity"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a quantitative analysis method?",
+        "options": [
+          "Flame test",
+          "Gravimetric analysis",
+          "TLC",
+          "Paper chromatography"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which instrument is commonly used to determine the molecular weight of a compound?",
+        "options": [
+          "pH meter",
+          "Spectrophotometer",
+          "Mass spectrometer",
+          "Chromatograph"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the function of an indicator in a titration?",
+        "options": [
+          "To react with the analyte",
+          "To provide a color change at the endpoint",
+          "To neutralize the solution",
+          "To increase reaction rate"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a qualitative analysis method?",
+        "options": [
+          "Gravimetric analysis",
+          "Titration",
+          "Colorimetry",
+          "Flame test"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In gas chromatography, what is the mobile phase?",
+        "options": [
+          "Liquid",
+          "Gas",
+          "Solid",
+          "Plasma"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of titration is used to determine the concentration of an acid or base?",
+        "options": [
+          "Redox titration",
+          "Complexometric titration",
+          "Acid-base titration",
+          "Precipitation titration"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which technique is best for separating large biomolecules like proteins?",
+        "options": [
+          "Gas Chromatography",
+          "Ion Exchange Chromatography",
+          "Size Exclusion Chromatography",
+          "TLC"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is NOT an instrumental method of analysis?",
+        "options": [
+          "UV-Vis Spectroscopy",
+          "NMR Spectroscopy",
+          "Paper Chromatography",
+          "Mass Spectrometry"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the principle of atomic absorption spectroscopy (AAS)?",
+        "options": [
+          "Absorption of light by atoms",
+          "Emission of light by atoms",
+          "Separation of ions",
+          "Chromatographic separation"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is used to determine the concentration of a colored solution?",
+        "options": [
+          "Flame photometry",
+          "Spectrophotometry",
+          "Potentiometry",
+          "Electrogravimetry"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the role of a stationary phase in chromatography?",
+        "options": [
+          "To move the sample",
+          "To separate components based on affinity",
+          "To detect substances",
+          "To act as an eluent"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which technique is used to measure electrical conductivity in a solution?",
+        "options": [
+          "Potentiometry",
+          "Conductometry",
+          "Fluorometry",
+          "Colorimetry"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an application of high-performance liquid chromatography (HPLC)?",
+        "options": [
+          "Separation of gases",
+          "Determination of protein structures",
+          "Analysis of drug compounds",
+          "Measuring pH"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is NOT a component of a UV-Vis spectrophotometer?",
+        "options": [
+          "Light source",
+          "Monochromator",
+          "Detector",
+          "Electrode"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In gravimetric analysis, what is measured to determine the amount of an analyte?",
+        "options": [
+          "Absorbance",
+          "Weight of a precipitate",
+          "Conductivity",
+          "Volume of a solution"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which factor affects the retention time in chromatography?",
+        "options": [
+          "Temperature",
+          "pH",
+          "Stationary phase material",
+          "All of the above"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  "physics": {
+    "mechanics": [
+      {
+        "question": "What is the SI unit of force?",
+        "options": [
+          "Newton",
+          "Joule",
+          "Watt",
+          "Pascal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law states that an object in motion stays in motion unless acted upon by an external force?",
+        "options": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Law of Conservation of Energy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the acceleration due to gravity on Earth?",
+        "options": [
+          "8.9 m/s²",
+          "9.8 m/s²",
+          "10.2 m/s²",
+          "12 m/s²"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which quantity is a scalar?",
+        "options": [
+          "Velocity",
+          "Displacement",
+          "Acceleration",
+          "Speed"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the equation for momentum?",
+        "options": [
+          "p = mv",
+          "F = ma",
+          "W = Fd",
+          "P = VI"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an example of Newton's Third Law?",
+        "options": [
+          "A book resting on a table",
+          "A ball rolling down a hill",
+          "A rocket launching into space",
+          "A car stopping due to friction"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of friction acts on an object at rest?",
+        "options": [
+          "Kinetic friction",
+          "Static friction",
+          "Rolling friction",
+          "Fluid friction"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which equation represents Newton’s Second Law?",
+        "options": [
+          "F = ma",
+          "W = mg",
+          "P = F/A",
+          "V = IR"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What happens to an object's velocity if there is no net external force acting on it?",
+        "options": [
+          "It remains constant",
+          "It increases",
+          "It decreases",
+          "It stops"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is an example of uniform circular motion?",
+        "options": [
+          "A car moving in a straight line",
+          "A satellite orbiting Earth",
+          "A ball falling freely",
+          "A pendulum swinging"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the work done when a force is applied perpendicular to the direction of motion?",
+        "options": [
+          "Positive",
+          "Negative",
+          "Zero",
+          "Infinity"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which law is also known as the Law of Inertia?",
+        "options": [
+          "Newton's First Law",
+          "Newton's Second Law",
+          "Newton's Third Law",
+          "Kepler's Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the SI unit of power?",
+        "options": [
+          "Watt",
+          "Joule",
+          "Newton",
+          "Pascal"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the impulse-momentum theorem?",
+        "options": [
+          "F = ma",
+          "Impulse = Change in momentum",
+          "Energy is conserved",
+          "Force is inversely proportional to mass"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the potential energy of an object of mass m at height h?",
+        "options": [
+          "mgh",
+          "½mv²",
+          "F = ma",
+          "P = VI"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the moment of inertia of a point mass?",
+        "options": [
+          "I = mr²",
+          "I = mv",
+          "I = mgh",
+          "I = ma"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following statements is true about torque?",
+        "options": [
+          "Torque is the product of force and distance",
+          "Torque is a scalar quantity",
+          "Torque depends only on force",
+          "Torque is measured in Newtons"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the center of mass of an object?",
+        "options": [
+          "The heaviest part of the object",
+          "The point where all mass is concentrated",
+          "The center of gravity",
+          "The midpoint of an object"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which quantity remains constant in an isolated system?",
+        "options": [
+          "Velocity",
+          "Momentum",
+          "Acceleration",
+          "Force"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If a car doubles its velocity, what happens to its kinetic energy?",
+        "options": [
+          "It remains the same",
+          "It doubles",
+          "It quadruples",
+          "It halves"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "electromagnetism": [
+      {
+        "question": "What is the SI unit of electric charge?",
+        "options": [
+          "Coulomb",
+          "Volt",
+          "Ohm",
+          "Ampere"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does Ohm's Law state?",
+        "options": [
+          "V = IR",
+          "P = IV",
+          "F = ma",
+          "E = mc²"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which particle is responsible for carrying electric charge in a conductor?",
+        "options": [
+          "Proton",
+          "Electron",
+          "Neutron",
+          "Photon"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happens to the resistance of a conductor when its length is doubled?",
+        "options": [
+          "Doubles",
+          "Halves",
+          "Remains the same",
+          "Becomes zero"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+          "Electric current",
+          "Voltage",
+          "Electric field",
+          "Resistance"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who discovered the relationship between electricity and magnetism?",
+        "options": [
+          "Isaac Newton",
+          "Michael Faraday",
+          "Albert Einstein",
+          "James Clerk Maxwell"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the SI unit of magnetic field strength?",
+        "options": [
+          "Tesla",
+          "Gauss",
+          "Henry",
+          "Coulomb"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which type of material is strongly attracted to a magnet?",
+        "options": [
+          "Diamagnetic",
+          "Ferromagnetic",
+          "Paramagnetic",
+          "Non-magnetic"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happens to the force between two charges when the distance between them is doubled?",
+        "options": [
+          "Doubles",
+          "Halves",
+          "Becomes one-fourth",
+          "Remains the same"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following devices operates on the principle of electromagnetic induction?",
+        "options": [
+          "Battery",
+          "Transformer",
+          "Resistor",
+          "Capacitor"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary function of a capacitor?",
+        "options": [
+          "Store charge",
+          "Generate electricity",
+          "Resist current",
+          "Convert AC to DC"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the unit of electrical resistance?",
+        "options": [
+          "Ohm",
+          "Tesla",
+          "Volt",
+          "Ampere"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law states that the induced EMF is proportional to the rate of change of magnetic flux?",
+        "options": [
+          "Faraday's Law",
+          "Lenz's Law",
+          "Gauss's Law",
+          "Coulomb's Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the function of a transformer?",
+        "options": [
+          "Increase or decrease voltage",
+          "Store electrical energy",
+          "Convert AC to DC",
+          "Measure current"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which rule determines the direction of induced current in a conductor?",
+        "options": [
+          "Lenz’s Law",
+          "Ohm’s Law",
+          "Kirchhoff’s Law",
+          "Newton’s Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which scientist formulated the four fundamental equations of electromagnetism?",
+        "options": [
+          "Newton",
+          "Maxwell",
+          "Faraday",
+          "Gauss"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of an inductor in a circuit?",
+        "options": [
+          "Store charge",
+          "Oppose changes in current",
+          "Increase resistance",
+          "Convert AC to DC"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following can block an electric field?",
+        "options": [
+          "Wood",
+          "Plastic",
+          "Metal",
+          "Glass"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What type of current is produced by a battery?",
+        "options": [
+          "Alternating Current (AC)",
+          "Direct Current (DC)",
+          "Pulsating Current",
+          "Static Electricity"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which electromagnetic wave has the longest wavelength?",
+        "options": [
+          "Gamma rays",
+          "Microwaves",
+          "X-rays",
+          "Radio waves"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "thermodynamics": [
+      {
+        "question": "What is the SI unit of heat energy?",
+        "options": [
+          "Joule",
+          "Calorie",
+          "Watt",
+          "Kelvin"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law of thermodynamics states that energy cannot be created or destroyed?",
+        "options": [
+          "First Law",
+          "Second Law",
+          "Third Law",
+          "Zeroth Law"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does entropy measure in a system?",
+        "options": [
+          "Energy",
+          "Temperature",
+          "Disorder",
+          "Pressure"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which thermodynamic process occurs at constant pressure?",
+        "options": [
+          "Isothermal",
+          "Adiabatic",
+          "Isobaric",
+          "Isochoric"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is absolute zero in Kelvin?",
+        "options": [
+          "0 K",
+          "273 K",
+          "100 K",
+          "-273 K"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law states that heat flows from a hotter body to a colder body?",
+        "options": [
+          "First Law",
+          "Second Law",
+          "Third Law",
+          "Zeroth Law"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the unit of thermal conductivity?",
+        "options": [
+          "W/mK",
+          "Joule",
+          "Watt",
+          "Newton"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What happens to the internal energy of an ideal gas during an isothermal process?",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Remains constant",
+          "Becomes zero"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which device converts heat energy into mechanical work?",
+        "options": [
+          "Refrigerator",
+          "Heat Pump",
+          "Heat Engine",
+          "Condenser"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the efficiency formula for a Carnot engine?",
+        "options": [
+          "1 - (T2/T1)",
+          "T2 - T1",
+          "P × V",
+          "Q × W"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which law defines temperature in thermodynamics?",
+        "options": [
+          "First Law",
+          "Second Law",
+          "Third Law",
+          "Zeroth Law"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "In which process does no heat exchange occur?",
+        "options": [
+          "Isothermal",
+          "Adiabatic",
+          "Isobaric",
+          "Isochoric"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the relation between pressure and volume in an isothermal process?",
+        "options": [
+          "PV = constant",
+          "P/V = constant",
+          "P + V = constant",
+          "P - V = constant"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which gas law relates volume and temperature at constant pressure?",
+        "options": [
+          "Boyle’s Law",
+          "Charles’ Law",
+          "Gay-Lussac’s Law",
+          "Avogadro’s Law"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the measure of a system’s ability to do work?",
+        "options": [
+          "Entropy",
+          "Enthalpy",
+          "Internal Energy",
+          "Temperature"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following has the highest specific heat capacity?",
+        "options": [
+          "Copper",
+          "Iron",
+          "Water",
+          "Mercury"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the primary function of a heat sink?",
+        "options": [
+          "Absorb heat",
+          "Generate heat",
+          "Increase entropy",
+          "Decrease pressure"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the main purpose of a refrigerator?",
+        "options": [
+          "Convert heat into work",
+          "Reduce entropy",
+          "Transfer heat from cold to hot",
+          "Increase pressure"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the Third Law of Thermodynamics state?",
+        "options": [
+          "Energy is conserved",
+          "Entropy of a pure crystal at 0 K is zero",
+          "Heat cannot be fully converted to work",
+          "Pressure remains constant"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What type of thermodynamic system allows both mass and energy exchange?",
+        "options": [
+          "Isolated",
+          "Closed",
+          "Open",
+          "Adiabatic"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "optics": [
+      {
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+          "3 × 10^8 m/s",
+          "3 × 10^6 m/s",
+          "3 × 10^10 m/s",
+          "3 × 10^4 m/s"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is a primary property of light?",
+        "options": [
+          "It needs a medium to travel",
+          "It is a longitudinal wave",
+          "It exhibits both wave and particle nature",
+          "It moves faster in denser mediums"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which mirror always forms a virtual, erect, and diminished image?",
+        "options": [
+          "Convex mirror",
+          "Concave mirror",
+          "Plane mirror",
+          "Parabolic mirror"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the focal length of a plane mirror?",
+        "options": [
+          "Zero",
+          "Infinity",
+          "Equal to its radius of curvature",
+          "Twice the radius of curvature"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+        "options": [
+          "Reflection",
+          "Refraction",
+          "Diffraction",
+          "Interference"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which lens is used to correct short-sightedness (myopia)?",
+        "options": [
+          "Convex lens",
+          "Concave lens",
+          "Cylindrical lens",
+          "Bifocal lens"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happens to the frequency of light when it passes from air to water?",
+        "options": [
+          "Increases",
+          "Decreases",
+          "Remains the same",
+          "Becomes zero"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the critical angle?",
+        "options": [
+          "The angle of incidence at which refraction stops",
+          "The angle beyond which total internal reflection occurs",
+          "The angle at which light is absorbed",
+          "The angle of minimum deviation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which optical instrument is used to study spectra of light?",
+        "options": [
+          "Telescope",
+          "Microscope",
+          "Spectrometer",
+          "Periscope"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What kind of image is formed by a convex lens when an object is placed between the focal point and the lens?",
+        "options": [
+          "Real and inverted",
+          "Virtual and magnified",
+          "Real and diminished",
+          "No image"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which color of light has the shortest wavelength?",
+        "options": [
+          "Red",
+          "Green",
+          "Blue",
+          "Violet"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the law of reflection?",
+        "options": [
+          "Angle of incidence = Angle of reflection",
+          "Angle of incidence + Angle of reflection = 90°",
+          "Light bends towards the normal",
+          "Light is always reflected at 45°"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which optical instrument uses two convex lenses to magnify small objects?",
+        "options": [
+          "Periscope",
+          "Telescope",
+          "Microscope",
+          "Camera"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What causes a rainbow to form?",
+        "options": [
+          "Reflection",
+          "Refraction and dispersion",
+          "Diffraction",
+          "Scattering"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the function of the iris in the human eye?",
+        "options": [
+          "Focus light on the retina",
+          "Control the amount of light entering the eye",
+          "Convert light into electrical signals",
+          "Protect the eye from dust"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which optical phenomenon is responsible for mirages?",
+        "options": [
+          "Reflection",
+          "Refraction",
+          "Total internal reflection",
+          "Interference"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the power of a lens with a focal length of 25 cm?",
+        "options": [
+          "+4D",
+          "-4D",
+          "+2.5D",
+          "-2.5D"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which lens is used in a magnifying glass?",
+        "options": [
+          "Concave lens",
+          "Convex lens",
+          "Bifocal lens",
+          "Plano-concave lens"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happens when light travels from a denser medium to a rarer medium?",
+        "options": [
+          "It bends towards the normal",
+          "It bends away from the normal",
+          "It does not bend",
+          "Its speed decreases"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which part of the human eye is responsible for focusing light onto the retina?",
+        "options": [
+          "Iris",
+          "Lens",
+          "Cornea",
+          "Optic nerve"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  "computer_science": {
+    "python": [
+      {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+          ".py",
+          ".pt",
+          ".pyt",
+          ".python"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which function is used to output text in Python?",
+        "options": [
+          "echo()",
+          "print()",
+          "display()",
+          "output()"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is NOT a valid Python data type?",
+        "options": [
+          "List",
+          "Tuple",
+          "Dictionary",
+          "Array"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which symbol is used for comments in Python?",
+        "options": [
+          "//",
+          "/* */",
+          "#",
+          "--"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How do you declare a variable in Python?",
+        "options": [
+          "var x = 10;",
+          "x = 10",
+          "int x = 10;",
+          "declare x = 10"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What will `print(type([]))` output?",
+        "options": [
+          "<class 'list'>",
+          "<class 'tuple'>",
+          "<class 'dict'>",
+          "<class 'set'>"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is used to take user input in Python?",
+        "options": [
+          "input()",
+          "scan()",
+          "get()",
+          "read()"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What will `bool([])` return?",
+        "options": [
+          "True",
+          "False",
+          "None",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How do you create an infinite loop in Python?",
+        "options": [
+          "while True:",
+          "for ( ; ; )",
+          "repeat until false",
+          "loop forever"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is used to define a function in Python?",
+        "options": [
+          "func",
+          "define",
+          "def",
+          "function"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What will `5 // 2` return?",
+        "options": [
+          "2.5",
+          "2",
+          "3",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": [
+          "class",
+          "def",
+          "struct",
+          "create"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the output of `len({'a':1, 'b':2, 'c':3})`?",
+        "options": [
+          "1",
+          "3",
+          "2",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the default return type of a function that does not have a return statement?",
+        "options": [
+          "int",
+          "None",
+          "str",
+          "bool"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which data structure does `set([1,2,3,2,1])` return?",
+        "options": [
+          "List",
+          "Tuple",
+          "Set",
+          "Dictionary"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does `list(range(3))` return?",
+        "options": [
+          "[1, 2, 3]",
+          "[0, 1, 2]",
+          "[0, 1, 2, 3]",
+          "range(0, 3)"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How do you open a file in read mode in Python?",
+        "options": [
+          "open('file.txt', 'r')",
+          "open('file.txt', 'w')",
+          "open('file.txt', 'rw')",
+          "open('file.txt', 'a')"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What will `bool(0)` return?",
+        "options": [
+          "True",
+          "False",
+          "None",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which keyword is used to handle exceptions in Python?",
+        "options": [
+          "try",
+          "catch",
+          "handle",
+          "except"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following can be used to generate random numbers in Python?",
+        "options": [
+          "math.random()",
+          "random.randint()",
+          "random.range()",
+          "rand.number()"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "java": [
+      {
+        "question": "What is the default value of a boolean variable in Java?",
+        "options": [
+          "true",
+          "false",
+          "0",
+          "null"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which keyword is used to define a class in Java?",
+        "options": [
+          "class",
+          "Class",
+          "define",
+          "struct"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is not a primitive data type in Java?",
+        "options": [
+          "int",
+          "float",
+          "boolean",
+          "String"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which method is called when an object is created in Java?",
+        "options": [
+          "main()",
+          "constructor()",
+          "init()",
+          "finalize()"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following loops is used when the number of iterations is known?",
+        "options": [
+          "for loop",
+          "while loop",
+          "do-while loop",
+          "infinite loop"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which keyword is used to prevent method overriding?",
+        "options": [
+          "static",
+          "final",
+          "private",
+          "protected"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the superclass of all classes in Java?",
+        "options": [
+          "Object",
+          "Main",
+          "Super",
+          "Root"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which package is imported by default in every Java program?",
+        "options": [
+          "java.lang",
+          "java.util",
+          "java.io",
+          "java.net"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How do you declare an array in Java?",
+        "options": [
+          "int arr = new int[10];",
+          "int arr[] = new int[10];",
+          "Both A and B",
+          "None of the above"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is not a valid access modifier in Java?",
+        "options": [
+          "private",
+          "public",
+          "protected",
+          "global"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which of the following is used to handle exceptions in Java?",
+        "options": [
+          "try-catch",
+          "error handling",
+          "exception block",
+          "try-except"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the output of `System.out.println(10 + 20 + \"Java\")`?",
+        "options": [
+          "Java30",
+          "30Java",
+          "Java1020",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which keyword is used to create an interface in Java?",
+        "options": [
+          "interface",
+          "class",
+          "implements",
+          "abstract"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of these is a wrapper class in Java?",
+        "options": [
+          "Integer",
+          "int",
+          "float",
+          "double"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How do you write a single-line comment in Java?",
+        "options": [
+          "// comment",
+          "/* comment */",
+          "# comment",
+          "-- comment"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which statement is used to exit from a loop in Java?",
+        "options": [
+          "break",
+          "continue",
+          "exit",
+          "return"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the size of an int variable in Java?",
+        "options": [
+          "2 bytes",
+          "4 bytes",
+          "8 bytes",
+          "Depends on the system"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is used to create an object in Java?",
+        "options": [
+          "new",
+          "create",
+          "make",
+          "construct"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which operator is used to compare two values in Java?",
+        "options": [
+          "=",
+          "==",
+          "!=",
+          "<>"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which method is used to find the length of a string in Java?",
+        "options": [
+          "size()",
+          "length()",
+          "getSize()",
+          "count()"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "c++": [
+      {
+        "question": "Which of the following is used to define a C++ function?",
+        "options": [
+          "def",
+          "func",
+          "void",
+          "function"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which operator is used to access the address of a variable?",
+        "options": [
+          "*",
+          "&",
+          "%",
+          "@"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a correct way to declare a pointer in C++?",
+        "options": [
+          "int ptr;",
+          "int *ptr;",
+          "ptr int;",
+          "*int ptr;"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which keyword is used to allocate memory dynamically in C++?",
+        "options": [
+          "malloc",
+          "alloc",
+          "new",
+          "create"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is not a valid data type in C++?",
+        "options": [
+          "int",
+          "string",
+          "char",
+          "real"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which function is used to read input from the user in C++?",
+        "options": [
+          "scanf()",
+          "cin >>",
+          "input()",
+          "get()"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is the correct syntax for defining a class in C++?",
+        "options": [
+          "class MyClass {}",
+          "class MyClass() {}",
+          "class MyClass { };",
+          "MyClass class() {}"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these is used to end a statement in C++?",
+        "options": [
+          ";",
+          ":",
+          ".",
+          ","
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which access specifier allows members to be accessed only within the class?",
+        "options": [
+          "public",
+          "private",
+          "protected",
+          "external"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is the correct way to include a header file in C++?",
+        "options": [
+          "#import <iostream>",
+          "#include <iostream>",
+          "include <iostream>",
+          "import <iostream>"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of the `virtual` keyword in C++?",
+        "options": [
+          "To create a new class",
+          "To allow method overriding",
+          "To create a pointer",
+          "To allocate memory"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a correct way to declare an array in C++?",
+        "options": [
+          "int arr(5);",
+          "int arr[] = {1,2,3,4,5};",
+          "int arr = new int[5];",
+          "array<int> arr(5);"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What will be the output of `cout << 5 / 2;`?",
+        "options": [
+          "2.5",
+          "2",
+          "5/2",
+          "Error"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which feature allows the same function name to be used for different operations in C++?",
+        "options": [
+          "Encapsulation",
+          "Abstraction",
+          "Polymorphism",
+          "Inheritance"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is the correct syntax for a destructor in C++?",
+        "options": [
+          "~MyClass()",
+          "destructor MyClass()",
+          "delete MyClass()",
+          "void ~MyClass()"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the output of `cout << (5 > 3 ? \"Yes\" : \"No\");`?",
+        "options": [
+          "Yes",
+          "No",
+          "5 > 3",
+          "Error"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which keyword is used to prevent method overriding in C++?",
+        "options": [
+          "static",
+          "final",
+          "override",
+          "None of the above"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which function is used to deallocate dynamically allocated memory in C++?",
+        "options": [
+          "free",
+          "delete",
+          "remove",
+          "dealloc"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which loop is executed at least once in C++?",
+        "options": [
+          "for loop",
+          "while loop",
+          "do-while loop",
+          "None of the above"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following operators is used for dereferencing a pointer in C++?",
+        "options": [
+          "&",
+          "*",
+          "@",
+          "#"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "operating_systems": [
+      {
+        "question": "Which of the following is the core of an operating system?",
+        "options": [
+          "Shell",
+          "Kernel",
+          "Command Line Interface",
+          "None of the above"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is an example of a real-time operating system?",
+        "options": [
+          "Windows",
+          "Linux",
+          "RTOS",
+          "macOS"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which operating system is open-source?",
+        "options": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "DOS"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of OS allows multiple users to access the system at the same time?",
+        "options": [
+          "Single-user OS",
+          "Multi-user OS",
+          "Real-time OS",
+          "Embedded OS"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a function of an operating system?",
+        "options": [
+          "Process management",
+          "Hardware design",
+          "Software development",
+          "None of the above"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the purpose of a process scheduler in an operating system?",
+        "options": [
+          "Manage memory",
+          "Schedule CPU execution",
+          "Handle input/output devices",
+          "Manage user interfaces"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which scheduling algorithm executes the process that arrives first?",
+        "options": [
+          "Round Robin",
+          "First Come First Serve",
+          "Shortest Job Next",
+          "Priority Scheduling"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of system software?",
+        "options": [
+          "Microsoft Word",
+          "Google Chrome",
+          "Windows OS",
+          "Photoshop"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these is NOT a memory management technique?",
+        "options": [
+          "Paging",
+          "Segmentation",
+          "Swapping",
+          "Looping"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is a deadlock in an operating system?",
+        "options": [
+          "A system crash",
+          "A process that is blocked forever",
+          "A CPU scheduling method",
+          "A disk failure"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these prevents deadlock?",
+        "options": [
+          "Mutual exclusion",
+          "Circular wait",
+          "Resource allocation graph",
+          "None of the above"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of operating system is used in mobile phones?",
+        "options": [
+          "Real-time OS",
+          "Batch OS",
+          "Embedded OS",
+          "Network OS"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these file systems is used in Windows?",
+        "options": [
+          "NTFS",
+          "EXT4",
+          "APFS",
+          "FAT32"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of these is NOT an example of an operating system?",
+        "options": [
+          "Windows",
+          "Linux",
+          "Google Drive",
+          "Android"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which part of the OS interacts directly with the hardware?",
+        "options": [
+          "Shell",
+          "Kernel",
+          "User Interface",
+          "Application Layer"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is a feature of multitasking operating systems?",
+        "options": [
+          "Only one program runs at a time",
+          "Multiple programs run simultaneously",
+          "No GUI",
+          "No user interaction"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following commands is used to check running processes in Linux?",
+        "options": [
+          "ls",
+          "ps",
+          "rm",
+          "mkdir"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the purpose of virtual memory?",
+        "options": [
+          "Increases RAM size",
+          "Allows execution of large programs",
+          "Removes unused files",
+          "Speeds up disk operations"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these is NOT an operating system?",
+        "options": [
+          "Unix",
+          "Windows",
+          "Python",
+          "macOS"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these OS types is best suited for time-sensitive applications?",
+        "options": [
+          "Real-time OS",
+          "Batch OS",
+          "Multiprogramming OS",
+          "Distributed OS"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "history": {
+    "ancient_history": [
+      {
+        "question": "Which civilization is known as the cradle of civilization?",
+        "options": [
+          "Egyptian",
+          "Mesopotamian",
+          "Greek",
+          "Roman"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the founder of the Maurya Empire?",
+        "options": [
+          "Ashoka",
+          "Chandragupta Maurya",
+          "Harsha",
+          "Kanishka"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Great Pyramid of Giza was built for which Pharaoh?",
+        "options": [
+          "Ramses II",
+          "Khufu",
+          "Tutankhamun",
+          "Akhenaten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which ancient script was used in the Indus Valley Civilization?",
+        "options": [
+          "Brahmi",
+          "Devanagari",
+          "Hieroglyphics",
+          "Undeciphered script"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What was the main contribution of Hammurabi to history?",
+        "options": [
+          "The first democracy",
+          "A written code of laws",
+          "The first navy",
+          "The invention of writing"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which empire is known for building the Royal Road?",
+        "options": [
+          "Roman",
+          "Persian",
+          "Greek",
+          "Byzantine"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the primary religion of the Persian Empire?",
+        "options": [
+          "Hinduism",
+          "Zoroastrianism",
+          "Buddhism",
+          "Islam"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The Rosetta Stone helped scholars decipher which ancient language?",
+        "options": [
+          "Sanskrit",
+          "Sumerian",
+          "Hieroglyphics",
+          "Greek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the famous military leader of the Carthaginians?",
+        "options": [
+          "Hannibal",
+          "Julius Caesar",
+          "Alexander the Great",
+          "Pericles"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which river was central to the development of Ancient Egypt?",
+        "options": [
+          "Amazon",
+          "Nile",
+          "Euphrates",
+          "Yangtze"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of these civilizations invented cuneiform writing?",
+        "options": [
+          "Egyptians",
+          "Sumerians",
+          "Greeks",
+          "Romans"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which empire was ruled by Cyrus the Great?",
+        "options": [
+          "Roman",
+          "Greek",
+          "Persian",
+          "Macedonian"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the first Emperor of China?",
+        "options": [
+          "Confucius",
+          "Liu Bang",
+          "Qin Shi Huang",
+          "Kublai Khan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "The Trojan War was described in which ancient epic?",
+        "options": [
+          "The Odyssey",
+          "The Aeneid",
+          "The Iliad",
+          "Beowulf"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which Indian Emperor converted to Buddhism and spread its teachings?",
+        "options": [
+          "Chandragupta Maurya",
+          "Harsha",
+          "Kanishka",
+          "Ashoka"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who is considered the father of history?",
+        "options": [
+          "Plato",
+          "Herodotus",
+          "Aristotle",
+          "Thucydides"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which ancient city was destroyed by a volcanic eruption?",
+        "options": [
+          "Pompeii",
+          "Athens",
+          "Carthage",
+          "Rome"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which ruler is associated with the Hanging Gardens of Babylon?",
+        "options": [
+          "Nebuchadnezzar II",
+          "Hammurabi",
+          "Darius I",
+          "Cyrus the Great"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The Colosseum is located in which ancient civilization?",
+        "options": [
+          "Greek",
+          "Egyptian",
+          "Roman",
+          "Byzantine"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which battle marked the end of Persian invasions in Greece?",
+        "options": [
+          "Battle of Marathon",
+          "Battle of Thermopylae",
+          "Battle of Salamis",
+          "Battle of Plataea"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "medieval_history": [
+      {
+        "question": "Who was the first Holy Roman Emperor?",
+        "options": [
+          "Charlemagne",
+          "Otto I",
+          "Frederick Barbarossa",
+          "Henry IV"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which battle in 1066 changed the course of English history?",
+        "options": [
+          "Battle of Hastings",
+          "Battle of Agincourt",
+          "Battle of Tours",
+          "Battle of Stamford Bridge"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the primary goal of the Crusades?",
+        "options": [
+          "To spread Islam",
+          "To trade spices",
+          "To reclaim the Holy Land",
+          "To expand the Mongol Empire"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who signed the Magna Carta in 1215?",
+        "options": [
+          "King Richard I",
+          "King John",
+          "King Henry II",
+          "King Edward I"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which empire was ruled by Genghis Khan?",
+        "options": [
+          "Ottoman Empire",
+          "Holy Roman Empire",
+          "Mongol Empire",
+          "Byzantine Empire"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which city was the capital of the Byzantine Empire?",
+        "options": [
+          "Athens",
+          "Constantinople",
+          "Rome",
+          "Venice"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What caused the Black Death?",
+        "options": [
+          "Influenza",
+          "Bubonic Plague",
+          "Smallpox",
+          "Cholera"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who led the French to victory in the Hundred Years' War?",
+        "options": [
+          "Joan of Arc",
+          "Napoleon",
+          "Louis XIV",
+          "Philip II"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which empire controlled most of India during the medieval period?",
+        "options": [
+          "Mughal Empire",
+          "Gupta Empire",
+          "Maurya Empire",
+          "Chola Dynasty"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who was the founder of the Ottoman Empire?",
+        "options": [
+          "Suleiman the Magnificent",
+          "Osman I",
+          "Mehmed II",
+          "Bayezid I"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the capital of the Aztec Empire?",
+        "options": [
+          "Machu Picchu",
+          "Tenochtitlan",
+          "Cuzco",
+          "Chichen Itza"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the name of the code of conduct followed by medieval knights?",
+        "options": [
+          "Bushido",
+          "Chivalry",
+          "Samurai Code",
+          "Spartan Code"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which dynasty ruled China during the medieval period and built the Forbidden City?",
+        "options": [
+          "Tang",
+          "Ming",
+          "Qing",
+          "Han"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was known as the 'Lionheart'?",
+        "options": [
+          "King John",
+          "Richard I",
+          "Henry V",
+          "William the Conqueror"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which famous explorer reached China and wrote about his travels?",
+        "options": [
+          "Marco Polo",
+          "Christopher Columbus",
+          "Vasco da Gama",
+          "Ferdinand Magellan"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the dominant religion of medieval Europe?",
+        "options": [
+          "Islam",
+          "Buddhism",
+          "Christianity",
+          "Hinduism"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which architectural style is associated with medieval cathedrals?",
+        "options": [
+          "Baroque",
+          "Gothic",
+          "Renaissance",
+          "Neoclassical"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the primary economic system in medieval Europe?",
+        "options": [
+          "Capitalism",
+          "Feudalism",
+          "Socialism",
+          "Mercantilism"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which medieval king was known for his legal reforms in England?",
+        "options": [
+          "Edward III",
+          "Henry II",
+          "Richard III",
+          "James I"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the first emperor of the Mughal Empire?",
+        "options": [
+          "Akbar",
+          "Babur",
+          "Aurangzeb",
+          "Shah Jahan"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "modern_history": [
+      {
+        "question": "In which year did the French Revolution begin?",
+        "options": [
+          "1776",
+          "1789",
+          "1804",
+          "1815"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": [
+          "Thomas Jefferson",
+          "John Adams",
+          "George Washington",
+          "Abraham Lincoln"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which treaty ended World War I?",
+        "options": [
+          "Treaty of Versailles",
+          "Treaty of Paris",
+          "Treaty of Ghent",
+          "Treaty of Vienna"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who led India's independence movement against British rule?",
+        "options": [
+          "Subhas Chandra Bose",
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Sardar Patel"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which event marked the start of World War II?",
+        "options": [
+          "Attack on Pearl Harbor",
+          "Invasion of Poland",
+          "Battle of Britain",
+          "D-Day Landings"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the leader of Nazi Germany during World War II?",
+        "options": [
+          "Joseph Stalin",
+          "Adolf Hitler",
+          "Winston Churchill",
+          "Benito Mussolini"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country was the first to industrialize during the Industrial Revolution?",
+        "options": [
+          "France",
+          "United States",
+          "Germany",
+          "United Kingdom"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which war took place between North and South America from 1861-1865?",
+        "options": [
+          "Revolutionary War",
+          "Civil War",
+          "War of 1812",
+          "Mexican-American War"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the first Chancellor of Germany?",
+        "options": [
+          "Otto von Bismarck",
+          "Adolf Hitler",
+          "Willy Brandt",
+          "Angela Merkel"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which empire collapsed in 1917 due to the Russian Revolution?",
+        "options": [
+          "Ottoman Empire",
+          "Mughal Empire",
+          "Romanov Empire",
+          "Habsburg Empire"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "When did women in the United States gain the right to vote?",
+        "options": [
+          "1900",
+          "1919",
+          "1920",
+          "1945"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country dropped atomic bombs on Hiroshima and Nagasaki in 1945?",
+        "options": [
+          "Germany",
+          "United Kingdom",
+          "United States",
+          "Soviet Union"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "options": [
+          "Joseph Stalin",
+          "Leonid Brezhnev",
+          "Nikita Khrushchev",
+          "Mikhail Gorbachev"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "When was the United Nations founded?",
+        "options": [
+          "1919",
+          "1939",
+          "1945",
+          "1955"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which African country was the first to gain independence from colonial rule?",
+        "options": [
+          "Nigeria",
+          "Ghana",
+          "South Africa",
+          "Kenya"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which U.S. President was assassinated in 1963?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "John F. Kennedy",
+          "Richard Nixon",
+          "Lyndon B. Johnson"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the Cold War?",
+        "options": [
+          "A war between Russia and the U.S.",
+          "A period of political tension",
+          "A war in Antarctica",
+          "A conflict over oil"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which year marked the fall of the Berlin Wall?",
+        "options": [
+          "1979",
+          "1985",
+          "1989",
+          "1991"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the first Black President of South Africa?",
+        "options": [
+          "Nelson Mandela",
+          "Jacob Zuma",
+          "Desmond Tutu",
+          "Thabo Mbeki"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which country was involved in the Vietnam War from 1955 to 1975?",
+        "options": [
+          "France",
+          "China",
+          "United States",
+          "United Kingdom"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "world_history": [
+      {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": [
+          "Greek",
+          "Roman",
+          "Egyptian",
+          "Mayan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the first Emperor of China?",
+        "options": [
+          "Liu Bang",
+          "Kublai Khan",
+          "Qin Shi Huang",
+          "Sun Yat-sen"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": [
+          "Macedonian",
+          "Byzantine",
+          "Roman",
+          "Ottoman"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the name of the trade route connecting China to Europe?",
+        "options": [
+          "Spice Route",
+          "Silk Road",
+          "Tea Trail",
+          "Amber Road"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who discovered America in 1492?",
+        "options": [
+          "Marco Polo",
+          "Vasco da Gama",
+          "Christopher Columbus",
+          "Ferdinand Magellan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which empire was ruled by Genghis Khan?",
+        "options": [
+          "Persian Empire",
+          "Mongol Empire",
+          "Ottoman Empire",
+          "British Empire"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the main cause of World War I?",
+        "options": [
+          "Economic crisis",
+          "Assassination of Archduke Franz Ferdinand",
+          "Religious conflicts",
+          "Cold War tensions"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which civilization invented the first writing system, cuneiform?",
+        "options": [
+          "Egyptians",
+          "Romans",
+          "Sumerians",
+          "Greeks"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What year did the French Revolution begin?",
+        "options": [
+          "1776",
+          "1789",
+          "1812",
+          "1848"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the famous military leader who became Emperor of France?",
+        "options": [
+          "Louis XIV",
+          "Napoleon Bonaparte",
+          "Charlemagne",
+          "Robespierre"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the Renaissance?",
+        "options": [
+          "A religious movement",
+          "A scientific revolution",
+          "A cultural revival of art and learning",
+          "A medieval war"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which empire controlled most of South America before independence movements?",
+        "options": [
+          "British",
+          "French",
+          "Portuguese",
+          "Spanish"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": [
+          "Leon Trotsky",
+          "Vladimir Lenin",
+          "Joseph Stalin",
+          "Mikhail Gorbachev"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the Cold War primarily about?",
+        "options": [
+          "Territorial disputes",
+          "Nuclear arms race and ideological conflict",
+          "Economic trade issues",
+          "Religious conflicts"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which empire was the largest in history by land area?",
+        "options": [
+          "Roman Empire",
+          "British Empire",
+          "Mongol Empire",
+          "Ottoman Empire"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": [
+          "Thomas Jefferson",
+          "John Adams",
+          "George Washington",
+          "Benjamin Franklin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which war led to the independence of the United States?",
+        "options": [
+          "War of 1812",
+          "American Civil War",
+          "American Revolution",
+          "French Revolution"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the name of Adolf Hitler's political party?",
+        "options": [
+          "Communist Party",
+          "Democratic Party",
+          "Nazi Party",
+          "Socialist Party"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country built the Great Wall to protect itself from invasions?",
+        "options": [
+          "China",
+          "Mongolia",
+          "India",
+          "Russia"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which famous ship sank in 1912 after hitting an iceberg?",
+        "options": [
+          "Lusitania",
+          "Titanic",
+          "Bismarck",
+          "Endurance"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "geography": {
+    "physical_geography": [
+      {
+        "question": "What is the outermost layer of the Earth called?",
+        "options": [
+          "Mantle",
+          "Core",
+          "Crust",
+          "Lithosphere"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": [
+          "Amazon River",
+          "Yangtze River",
+          "Mississippi River",
+          "Nile River"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What type of rock is formed from cooled lava or magma?",
+        "options": [
+          "Igneous",
+          "Sedimentary",
+          "Metamorphic",
+          "Basalt"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which landform is created by the movement of tectonic plates?",
+        "options": [
+          "Mountains",
+          "Lakes",
+          "Rivers",
+          "Islands"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the term for a chain of mountains?",
+        "options": [
+          "Plateau",
+          "Valley",
+          "Archipelago",
+          "Range"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+        "options": [
+          "Troposphere",
+          "Stratosphere",
+          "Mesosphere",
+          "Exosphere"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the process of rocks breaking down due to wind, water, or ice?",
+        "options": [
+          "Erosion",
+          "Weathering",
+          "Deposition",
+          "Compaction"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which ocean is the largest on Earth?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the name of the supercontinent that existed millions of years ago?",
+        "options": [
+          "Eurasia",
+          "Pangea",
+          "Gondwana",
+          "Laurasia"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the name of the deepest point in the ocean?",
+        "options": [
+          "Mariana Trench",
+          "Java Trench",
+          "Puerto Rico Trench",
+          "Tonga Trench"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which natural disaster is caused by underwater earthquakes?",
+        "options": [
+          "Hurricane",
+          "Tornado",
+          "Tsunami",
+          "Landslide"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the slow movement of continents over time called?",
+        "options": [
+          "Tectonic shift",
+          "Continental drift",
+          "Seafloor spreading",
+          "Subduction"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a narrow strip of land connecting two larger land masses?",
+        "options": [
+          "Peninsula",
+          "Isthmus",
+          "Strait",
+          "Delta"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the term for an area where fresh and saltwater mix?",
+        "options": [
+          "Lagoon",
+          "Delta",
+          "Estuary",
+          "Bay"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which layer of Earth is made up of liquid iron and nickel?",
+        "options": [
+          "Inner core",
+          "Outer core",
+          "Mantle",
+          "Crust"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of volcano has the most explosive eruptions?",
+        "options": [
+          "Shield volcano",
+          "Cinder cone volcano",
+          "Composite volcano",
+          "Dome volcano"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the name of the large sea waves caused by earthquakes?",
+        "options": [
+          "Hurricanes",
+          "Tsunamis",
+          "Cyclones",
+          "Tornadoes"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+          "Gobi Desert",
+          "Sahara Desert",
+          "Antarctic Desert",
+          "Arabian Desert"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is NOT a type of plate boundary?",
+        "options": [
+          "Divergent",
+          "Convergent",
+          "Transform",
+          "Oblique"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which river is known as the 'Lifeline of Egypt'?",
+        "options": [
+          "Amazon",
+          "Ganges",
+          "Yangtze",
+          "Nile"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "human_geography": [
+      {
+        "question": "What is the study of how humans interact with the environment called?",
+        "options": [
+          "Physical Geography",
+          "Geology",
+          "Human Geography",
+          "Climatology"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which factor is NOT considered when studying population geography?",
+        "options": [
+          "Birth rates",
+          "Death rates",
+          "Rock formations",
+          "Migration patterns"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which term describes the number of people living per unit area?",
+        "options": [
+          "Carrying capacity",
+          "Population density",
+          "Demographic transition",
+          "Migration rate"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the movement of people from rural to urban areas called?",
+        "options": [
+          "Emigration",
+          "Urbanization",
+          "Industrialization",
+          "Suburbanization"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the term for the spread of cultural beliefs and activities?",
+        "options": [
+          "Cultural diffusion",
+          "Cultural assimilation",
+          "Cultural diversity",
+          "Cultural integration"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which continent has the highest population?",
+        "options": [
+          "Africa",
+          "Europe",
+          "Asia",
+          "South America"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country has the second largest population in the world?",
+        "options": [
+          "USA",
+          "India",
+          "China",
+          "Indonesia"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which term describes the process of making a rural area more urban?",
+        "options": [
+          "Globalization",
+          "Urbanization",
+          "Industrialization",
+          "Colonization"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a megalopolis?",
+        "options": [
+          "A large single city",
+          "A group of large, connected cities",
+          "A rural farming community",
+          "A small town"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does GDP stand for in economic geography?",
+        "options": [
+          "Gross Domestic Product",
+          "Global Development Plan",
+          "General Demographic Population",
+          "Geographical Data Processing"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the following is a push factor for migration?",
+        "options": [
+          "Better job opportunities",
+          "War and conflict",
+          "Higher wages",
+          "Better climate"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which economic sector involves raw material extraction, such as farming and mining?",
+        "options": [
+          "Primary",
+          "Secondary",
+          "Tertiary",
+          "Quaternary"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which term refers to the division of land based on ownership and political boundaries?",
+        "options": [
+          "Demarcation",
+          "Territoriality",
+          "Zoning",
+          "Urban planning"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a developed country?",
+        "options": [
+          "Nigeria",
+          "Brazil",
+          "Germany",
+          "India"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which type of settlement is characterized by high population density and infrastructure development?",
+        "options": [
+          "Rural",
+          "Urban",
+          "Suburban",
+          "Agricultural"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of economic activity includes services such as banking and retail?",
+        "options": [
+          "Primary",
+          "Secondary",
+          "Tertiary",
+          "Quaternary"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is an example of a pull factor for migration?",
+        "options": [
+          "War",
+          "Famine",
+          "Job opportunities",
+          "Natural disasters"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which continent has the lowest population density?",
+        "options": [
+          "Asia",
+          "Africa",
+          "Antarctica",
+          "Europe"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is a major consequence of rapid urbanization?",
+        "options": [
+          "Increased agricultural land",
+          "Decreased pollution",
+          "Urban sprawl",
+          "Lower population density"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which city has the highest population in the world?",
+        "options": [
+          "New York",
+          "Tokyo",
+          "Shanghai",
+          "Delhi"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "environmental_geography": [
+      {
+        "question": "What is the study of interactions between humans and their environment called?",
+        "options": [
+          "Climatology",
+          "Environmental Geography",
+          "Geology",
+          "Cartography"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a renewable resource?",
+        "options": [
+          "Coal",
+          "Petroleum",
+          "Solar energy",
+          "Natural gas"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which gas is the main contributor to global warming?",
+        "options": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which human activity is a major cause of deforestation?",
+        "options": [
+          "Fishing",
+          "Agriculture",
+          "Mining",
+          "Hunting"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What term describes the contamination of water, air, or land by harmful substances?",
+        "options": [
+          "Biodiversity",
+          "Deforestation",
+          "Pollution",
+          "Conservation"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is a major cause of air pollution?",
+        "options": [
+          "Deforestation",
+          "Burning fossil fuels",
+          "Recycling",
+          "Organic farming"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main reason for rising sea levels?",
+        "options": [
+          "Deforestation",
+          "Melting glaciers",
+          "Increased rainfall",
+          "Soil erosion"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which layer of the atmosphere protects Earth from harmful UV rays?",
+        "options": [
+          "Troposphere",
+          "Stratosphere",
+          "Ozone layer",
+          "Exosphere"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the term for the gradual increase in Earth's temperature due to greenhouse gases?",
+        "options": [
+          "Climate change",
+          "Deforestation",
+          "Acid rain",
+          "Urbanization"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which natural disaster is caused by the movement of tectonic plates?",
+        "options": [
+          "Hurricane",
+          "Earthquake",
+          "Tsunami",
+          "Tornado"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main cause of desertification?",
+        "options": [
+          "Excessive rainfall",
+          "Deforestation",
+          "Urbanization",
+          "Volcanic activity"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a major contributor to soil erosion?",
+        "options": [
+          "Reforestation",
+          "Overgrazing",
+          "Recycling",
+          "Composting"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of energy is least harmful to the environment?",
+        "options": [
+          "Coal",
+          "Nuclear",
+          "Wind",
+          "Petroleum"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which organization is responsible for international climate change discussions?",
+        "options": [
+          "WHO",
+          "UNESCO",
+          "IPCC",
+          "NATO"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the term for the variety of life in an ecosystem?",
+        "options": [
+          "Climate",
+          "Biodiversity",
+          "Ecology",
+          "Deforestation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is a method of conserving water?",
+        "options": [
+          "Over-irrigation",
+          "Desalination",
+          "Deforestation",
+          "Urbanization"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which type of farming minimizes environmental impact?",
+        "options": [
+          "Industrial farming",
+          "Subsistence farming",
+          "Organic farming",
+          "Commercial farming"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the major consequence of excessive plastic waste?",
+        "options": [
+          "Improved air quality",
+          "Water pollution",
+          "Increased biodiversity",
+          "Lower carbon emissions"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is NOT a fossil fuel?",
+        "options": [
+          "Coal",
+          "Oil",
+          "Natural gas",
+          "Hydropower"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which international agreement focuses on reducing carbon emissions?",
+        "options": [
+          "Kyoto Protocol",
+          "Paris Agreement",
+          "Montreal Protocol",
+          "Basel Convention"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "geopolitics": [
+      {
+        "question": "What is geopolitics primarily concerned with?",
+        "options": [
+          "Climate patterns",
+          "Political power and geography",
+          "Animal migration",
+          "Historical events"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following is an example of a landlocked country?",
+        "options": [
+          "India",
+          "Brazil",
+          "Switzerland",
+          "Japan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which geopolitical theory suggests that whoever controls Eastern Europe controls the world?",
+        "options": [
+          "Heartland Theory",
+          "Rimland Theory",
+          "Domino Theory",
+          "Dependency Theory"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The South China Sea is a geopolitical hotspot due to disputes over:",
+        "options": [
+          "Oil reserves",
+          "Water pollution",
+          "Fishing laws",
+          "Tourism development"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organization was created to maintain international peace and security?",
+        "options": [
+          "NATO",
+          "WHO",
+          "UN",
+          "OPEC"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country is NOT a member of the G7?",
+        "options": [
+          "Canada",
+          "Russia",
+          "Germany",
+          "Italy"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country was historically divided by the Berlin Wall?",
+        "options": [
+          "France",
+          "Germany",
+          "Italy",
+          "Poland"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The term 'Brexit' refers to which country leaving the European Union?",
+        "options": [
+          "France",
+          "Germany",
+          "United Kingdom",
+          "Italy"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following is a major oil-producing region in the world?",
+        "options": [
+          "Siberia",
+          "Sahara Desert",
+          "Middle East",
+          "Andes Mountains"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which Asian country is often called the 'Middle Kingdom' in geopolitics?",
+        "options": [
+          "India",
+          "China",
+          "Japan",
+          "Thailand"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does NATO stand for?",
+        "options": [
+          "North American Treaty Organization",
+          "National Association of Trade Operations",
+          "North Atlantic Treaty Organization",
+          "Nations Allied for Trade and Organization"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the following countries has a permanent seat on the UN Security Council?",
+        "options": [
+          "Germany",
+          "Japan",
+          "India",
+          "France"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which country annexed Crimea in 2014?",
+        "options": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Belarus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The term ‘Iron Curtain’ was used to describe the division between:",
+        "options": [
+          "North and South Korea",
+          "Eastern and Western Europe",
+          "USA and Canada",
+          "India and Pakistan"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which global event led to the formation of the United Nations?",
+        "options": [
+          "World War I",
+          "World War II",
+          "Cold War",
+          "Vietnam War"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which of the following countries is a member of BRICS?",
+        "options": [
+          "Brazil",
+          "Belgium",
+          "Bangladesh",
+          "Bulgaria"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which canal is crucial for global trade, connecting the Mediterranean and Red Seas?",
+        "options": [
+          "Panama Canal",
+          "Suez Canal",
+          "Kiel Canal",
+          "Corinth Canal"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the main reason for geopolitical tensions in the Arctic?",
+        "options": [
+          "Fishing rights",
+          "Oil and gas reserves",
+          "Tourism development",
+          "Wildlife conservation"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which strait is considered one of the world's most important chokepoints for oil transportation?",
+        "options": [
+          "Strait of Hormuz",
+          "Strait of Gibraltar",
+          "Bering Strait",
+          "Torres Strait"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which organization regulates the global oil market?",
+        "options": [
+          "WHO",
+          "OPEC",
+          "WTO",
+          "IMF"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  }
+}

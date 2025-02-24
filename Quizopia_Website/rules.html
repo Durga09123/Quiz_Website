@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Rules - Quizopia</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="navbar-left">
+                <img src="./image/quizopia_logo.jpeg" alt="quiz-logo">
+            </div>
+            <div class="navbar-right">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="quiz.html">Quiz</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="logo-mobile">
+                <a href="#"> <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+            <i class="fa-solid fa-bars" onclick="toggleMenu()"></i>
+            <div class="navbar-mobile">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#categories-section">Categories</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#faqs">FAQ</a></li>
+                    <li><a href="#contact-info">Contact Us</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section class="quiz-rules-section">
+        <h1>Quiz Rules</h1>
+        <div class="rules-container">
+            <ul>
+                <li>You must complete the quiz within the given time limit. If the time expires, the quiz will be
+                    submitted automatically.</li>
+                <li>There are no negative marks for incorrect answers.</li>
+                <li>Once the quiz begins, you cannot exit until it is completed.</li>
+                <li>After answering all the questions, click the "Submit" button to finalize your responses.</li>
+                <li>Ensure a stable internet connection to avoid any interruptions.</li>
+                <li>Read each question carefully before selecting your answer.</li>
+                <li>Good luck, and give it your best shot!</li>
+
+
+            </ul>
+            <button id="start-now-button" onclick="startQuiz()">Start Now</button>
+        </div>
+    </section>
+    <script src="rules.js"></script>
+</body>
+
+</html>

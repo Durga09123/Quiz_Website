@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizopia-Home</title>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.css'
+        integrity='sha512-GmZYQ9SKTnOea030Tbiat0Y+jhnYLIpsGAe6QTnToi8hI2nNbVMETHeK4wm4MuYMQdrc38x+sX77+kVD01eNsQ=='
+        crossorigin='anonymous' />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="navbar-left">
+                <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+            <div class="navbar-right">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#categories-section">Categories</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#faqs">FAQ</a></li>
+                    <li><a href="#contact-info">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="logo-mobile">
+                <a href="#"> <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+            <i class="fa-solid fa-bars" onclick="toggleMenu()"></i>
+            <div class="navbar-mobile">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#categories-section">Categories</a></li>
+                    <li><a href="#about-us">About Us</a></li>
+                    <li><a href="#faqs">FAQ</a></li>
+                    <li><a href="#contact-info">Contact Us</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section class="section-1">
+        <div class="section-1-left">
+            <img src="./image/section 1/Image 1.png">
+        </div>
+        <div class="section-1-right">
+            <h1 class="animated-title">Unlock Your Potential with Quizopia!</h1>
+            <p id="sub-title" class="animated-text">Explore Quizzes in Tamil, English, Maths, Science, and More!
+            </p>
+            <p id="below-content" class="animated-text">
+                At Quizopia, we make learning fun and interactive. Test your knowledge,
+                challenge yourself, and discover new topics with our wide range of quizzes.
+            </p>
+
+            <div class="button-start">
+                <a href="#categories-section" class="animated-button">Explore Quizzes</a>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="categories-section" id="categories-section">
+        <h1>Choose a Subject</h1>
+        <div class="subjects-grid">
+            <div class="subject-card" onclick="showSubcategories('tamil')">
+                <div class="sub-image">
+                    <img src="./image/Category/tamil.jpeg">
+                </div>
+                <h2>Tamil</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('english')">
+                <div class="sub-image">
+                    <img src="./image/Category/english.jpeg">
+                </div>
+                <h2>English</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('maths')">
+                <div class="sub-image">
+                    <img src="./image/Category/maths.jpeg">
+                </div>
+                <h2>Maths</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('biology')">
+                <div class="sub-image">
+                    <img src="./image/Category/biology.jpeg">
+                </div>
+                <h2>Biology</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('chemistry')">
+                <div class="sub-image">
+                    <img src="./image/Category/chemistry.jpeg">
+                </div>
+                <h2>Chemistry</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('physics')">
+                <div class="sub-image">
+                    <img src="./image/Category/physics.jpeg">
+                </div>
+                <h2>Physics</h2>
+            </div>
+            <div class="subject-card" onclick="showSubcategories('computer_science')">
+                <div class="sub-image">
+                    <img src="./image/Category/computer.jpeg">
+                </div>
+                <h2>Computer Science</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('history')">
+                <div class="sub-image">
+                    <img src="./image/Category/history.jpeg">
+                </div>
+                <h2>History</h2>
+            </div>
+
+            <div class="subject-card" onclick="showSubcategories('geography')">
+                <div class="sub-image">
+                    <img src="./image/Category/geography.jpeg">
+                </div>
+                <h2>Geography</h2>
+            </div>
+
+            <!-- Modal for Subcategories -->
+            <div id="modal" class="modal">
+                <div class="modal-content">
+                    <span id="close-modal-button" class="close-button">&times;</span>
+                    <h2 id="modal-title">Subcategories</h2>
+                    <div id="subcategories-container" class="subcategories-container">
+                        <!-- Subcategories will be dynamically inserted here -->
+                    </div>
+                    <button id="next" onclick="next_btn()" disabled>Next</button>
+                </div>
+            </div>
+
+            <!-- Modal for Question Count -->
+            <div id="question-count-modal" class="modal">
+                <div class="modal-content">
+                    <span id="close-question-count-modal-button" class="close-button">&times;</span>
+                    <h2 id="question-count-title">How many questions do you want to attempt?</h2>
+                    <div id="question-count-container" class="subcategories-container">
+                        <!-- Question count options will be dynamically inserted here -->
+                    </div>
+                    <button id="start-quiz" onclick="startQuiz()" disabled>Start Quiz</button>
+                </div>
+            </div>
+    </section>
+    <section class="hero-section" id="about-us">
+        <div class="hero-content">
+            <h1>Empowering Learners, One Quiz at a Time</h1>
+            <p>Your journey to knowledge starts here.</p>
+        </div>
+    </section>
+
+    <!-- Our Story -->
+    <section class="our-story">
+        <h2>Our Story</h2>
+        <p>Founded in 2023, Quizopia was born out of a passion for education and a desire to make learning fun and
+            accessible for everyone. Our team of educators, developers, and designers came together to create a platform
+            that helps learners of all ages achieve their goals.</p>
+        <img src="./image/Company.jpg" alt="Our Team" class="team-photo">
+    </section>
+
+    <!-- Mission and Vision -->
+    <section class="mission-vision">
+        <div class="mission">
+            <h2>Our Mission</h2>
+            <p>Our mission is to make learning engaging, interactive, and accessible to everyone.</p>
+        </div>
+        <div class="vision">
+            <h2>Our Vision</h2>
+            <p>We envision a world where anyone, anywhere, can learn and grow through the power of quizzes.</p>
+        </div>
+    </section>
+
+    <!-- Core Values -->
+    <section class="core-values">
+        <h2>Our Core Values</h2>
+        <div class="values-grid">
+            <div class="value">
+                <img src="./image/Core-Values/Innovation.jpg" alt="Innovation">
+                <h3>Innovation</h3>
+                <p>We constantly evolve to bring you the best learning tools.</p>
+            </div>
+            <div class="value">
+                <img src="./image/Core-Values/accessability.jpg" alt="Accessibility">
+                <h3>Accessibility</h3>
+                <p>Learning should be available to everyone, everywhere.</p>
+            </div>
+            <div class="value">
+                <img src="./image/Core-Values/Fun.jpg" alt="Fun">
+                <h3>Fun</h3>
+                <p>We believe learning should be enjoyable and engaging.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Meet the Team -->
+    <section class="meet-the-team">
+        <h2>Meet the Team</h2>
+        <div class="team-grid">
+            <div class="team-member">
+                <img src="./image/Team-Members/person_1.jpeg" alt="John Doe">
+                <h3>John Doe</h3>
+                <p>Founder & CEO</p>
+            </div>
+            <div class="team-member">
+                <img src="./image/Team-Members/person_2.jpeg" alt="Jane Smith">
+                <h3>Jane Smith</h3>
+                <p>Lead Developer</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials">
+        <h2>What Our Users Say</h2>
+        <div class="testimonial-grid">
+            <div class="testimonial">
+                <img src="./image/Testimonials/person_1.jpeg" alt="User 1">
+                <p>"This platform has transformed the way I learn. The quizzes are fun and effective!"</p>
+                <p class="user-name">- Sarah T.</p>
+            </div>
+            <div class="testimonial">
+                <img src="./image/Testimonials/person_2.jpeg" alt="User 2">
+                <p>"I love how easy it is to create and share quizzes with my students."</p>
+                <p class="user-name">- Mark R.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <h2>Ready to Start Your Learning Journey?</h2>
+        <a href="#" class="cta-button">Join Us Today</a>
+    </section>
+
+    <!-- FAQs -->
+    <section class="faqs" id="faqs">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq-grid">
+            <div class="faq">
+                <h3>Is this platform free to use?</h3>
+                <p>Yes, our basic features are free for everyone!</p>
+            </div>
+            <div class="faq">
+                <h3>Can we use this platform 24/7?</h3>
+                <p>Yes, You can! </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Contact Information -->
+    <section class="contact-info" id="contact-info">
+        <h2>Contact Us</h2>
+        <p>Have questions? Reach out to us at <a href="mailto:support@quizopia.com"> support@quizopiaform.com</a>.</p>
+        <div class="social-links">
+            <i class="fa-brands fa-youtube"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+
+        </div>
+    </section>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

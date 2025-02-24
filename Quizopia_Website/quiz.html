@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Quizopia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="navbar-left">
+                <img src="./image/quizopia_logo.jpeg" alt="quiz-logo">
+            </div>
+            <div class="logo-mobile">
+                <a href="#"> <img src="./image/quizopia_logo.jpeg" alt="quiz-logo"></a>
+            </div>
+
+            <div id="time">Time: 00:00</div>
+
+        </nav>
+    </header>
+    <section class="quiz-section">
+        <h1 id="quiz-title">Quiz</h1>
+        <div id="quiz-container">
+            <!-- Quiz questions will be dynamically inserted here -->
+        </div>
+        <div class="quiz-controls">
+            <button id="previous-button" onclick="previousQuestion()">Previous</button>
+            <button id="next-button" onclick="nextQuestion()">Next</button>
+            <button id="submit-button" onclick="submitQuiz()" style="display: none;">Submit</button>
+        </div>
+        </div>
+    </section>
+    <script src="quiz.js"></script>
+
+</body>
+
+</html>
