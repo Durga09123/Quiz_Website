@@ -2,10 +2,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const closeModalButton = document.getElementById("close-modal-button");
     const modal = document.getElementById("modal");
 
-    // Only run this code if the modal and close button exist on the page
+    const closeQuestionCountModalButton = document.getElementById("close-question-count-modal-button");
+    const questionCountModal = document.getElementById("question-count-modal");
+
+    // Close the main modal
     if (closeModalButton && modal) {
         closeModalButton.addEventListener("click", () => {
             modal.classList.remove("active");
+        });
+    }
+
+    // Close the question count modal
+    if (closeQuestionCountModalButton && questionCountModal) {
+        closeQuestionCountModalButton.addEventListener("click", () => {
+            questionCountModal.classList.remove("active");
         });
     }
 
@@ -22,16 +32,16 @@ function toggleMenu() {
 // Function to close the mobile menu when a link is clicked
 function closeMenuOnLinkClick() {
     const navbarMobile = document.querySelector(".navbar-mobile");
-    const navLinks = navbarMobile.querySelectorAll("a"); // Get all links inside the mobile menu
+    const navLinks = navbarMobile.querySelectorAll("a"); 
 
     navLinks.forEach(link => {
         link.addEventListener("click", () => {
-            navbarMobile.classList.remove("active"); // Close the menu
+            navbarMobile.classList.remove("active"); 
         });
     });
 }
 
-// Call the function to set up the event listeners
+
 closeMenuOnLinkClick();
 function closeMenuWithDelay(event) {
     event.preventDefault(); // Prevent immediate navigation
