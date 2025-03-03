@@ -77,15 +77,7 @@
 
      - View your score and a detailed breakdown of your answers.
      - Click "Go to Home" to return to the main page.
+     
 
+[View My Project](https://tubular-boba-098484.netlify.app/)
 
-## Screenshots
-
-![Quizopia-Home](https://github.com/user-attachments/assets/06affe81-524e-4534-b088-815cf44b5913)
-![Quizopia-Category](https://github.com/user-attachments/assets/ac341892-8431-47e9-9ced-dc8781236c68)
-![Quizopia-Subcategory](https://github.com/user-attachments/assets/a7476901-691d-4c75-84f1-61eeefecb07c)
-![Quizopia-NoOfQuestions](https://github.com/user-attachments/assets/f121dca5-4b20-404d-a333-a694d0b7d76e)
-![Quizopia-Rules](https://github.com/user-attachments/assets/3a685b44-e171-4b3b-8068-aac4cb70457b)
-![Quizopia-Quiz](https://github.com/user-attachments/assets/337d3067-7f0d-4917-9280-0f51f259f39a)
-![Quizopia-Result](https://github.com/user-attachments/assets/fb4bb84d-e9ce-4efd-9a1d-2c357e41d945)
-![Quizopia-Result2](https://github.com/user-attachments/assets/9c725ec0-27a5-4b5a-96bc-860f06da2f36)
