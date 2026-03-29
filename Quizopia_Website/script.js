@@ -32,16 +32,16 @@ function toggleMenu() {
 // Function to close the mobile menu when a link is clicked
 function closeMenuOnLinkClick() {
     const navbarMobile = document.querySelector(".navbar-mobile");
-    const navLinks = navbarMobile.querySelectorAll("a"); 
+    const navLinks = navbarMobile.querySelectorAll("a"); // Get all links inside the mobile menu
 
     navLinks.forEach(link => {
         link.addEventListener("click", () => {
-            navbarMobile.classList.remove("active"); 
+            navbarMobile.classList.remove("active"); // Close the menu
         });
     });
 }
 
-
+// Call the function to set up the event listeners
 closeMenuOnLinkClick();
 function closeMenuWithDelay(event) {
     event.preventDefault(); // Prevent immediate navigation
@@ -68,7 +68,8 @@ const subcategories = {
 };
 
 let quizData; // Declare quizData globally
-
+const formatKey = (str) =>
+    str.toLowerCase().trim().replace(/\s+/g, "_");
 // Show subcategories for the selected subject
 function showSubcategories(subject) {
     const modal = document.getElementById("modal");
@@ -109,9 +110,8 @@ function next_btn() {
         console.log("Selected Subcategory:", selectedSubcategory.value); // Debugging
 
         // Convert to lowercase before storing in sessionStorage
-        sessionStorage.setItem("selectedCategory", selectedCategory.toLowerCase());
-        sessionStorage.setItem("selectedSubcategory", selectedSubcategory.value.toLowerCase());
-
+       sessionStorage.setItem("selectedCategory", formatKey(selectedCategory));
+       sessionStorage.setItem("selectedSubcategory", formatKey(selectedSubcategory.value));
         // Open a new modal to select the number of questions
         showQuestionCountModal();
     } else {
