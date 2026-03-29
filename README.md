@@ -79,5 +79,5 @@
      - Click "Go to Home" to return to the main page.
      
 
-[View My Project](https://tubular-boba-098484.netlify.app/)
+[View My Project](https://funny-alfajores-d83472.netlify.app/)
 
