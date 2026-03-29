@@ -3432,7 +3432,7 @@
     ]
   },
   "chemistry": {
-    "organic-chemistry": [
+    "organic": [
       {
         "question": "What is the general formula for alkanes?",
         "options": [
@@ -3634,7 +3634,7 @@
         "correctAnswer": 1
       }
     ],
-    "inorganic-chemistry": [
+    "inorganic": [
       {
         "question": "Which element is the most abundant in Earth's crust?",
         "options": [
@@ -3836,7 +3836,7 @@
         "correctAnswer": 1
       }
     ],
-    "physical-chemistry": [
+    "physical": [
       {
         "question": "What is the SI unit of pressure?",
         "options": [
@@ -4038,7 +4038,7 @@
         "correctAnswer": 0
       }
     ],
-    "analytical-chemistry": [
+    "analytical": [
       {
         "question": "Which technique is used to separate components of a mixture based on their boiling points?",
         "options": [
@@ -4241,6 +4241,7 @@
       }
     ]
   },
+
   "physics": {
     "mechanics": [
       {
@@ -5861,8 +5862,9 @@
       }
     ]
   },
+
   "history": {
-    "ancient_history": [
+    "ancient": [
       {
         "question": "Which civilization is known as the cradle of civilization?",
         "options": [
@@ -6064,7 +6066,7 @@
         "correctAnswer": 3
       }
     ],
-    "medieval_history": [
+    "medieval": [
       {
         "question": "Who was the first Holy Roman Emperor?",
         "options": [
@@ -6266,7 +6268,7 @@
         "correctAnswer": 1
       }
     ],
-    "modern_history": [
+    "modern": [
       {
         "question": "In which year did the French Revolution begin?",
         "options": [
@@ -6468,7 +6470,7 @@
         "correctAnswer": 2
       }
     ],
-    "world_history": [
+    "world": [
       {
         "question": "Which ancient civilization built the pyramids?",
         "options": [
@@ -6672,7 +6674,7 @@
     ]
   },
   "geography": {
-    "physical_geography": [
+    "physical": [
       {
         "question": "What is the outermost layer of the Earth called?",
         "options": [
@@ -6874,7 +6876,7 @@
         "correctAnswer": 3
       }
     ],
-    "human_geography": [
+    "human": [
       {
         "question": "What is the study of how humans interact with the environment called?",
         "options": [
@@ -7076,7 +7078,7 @@
         "correctAnswer": 1
       }
     ],
-    "environmental_geography": [
+    "environmental": [
       {
         "question": "What is the study of interactions between humans and their environment called?",
         "options": [
